@@ -1,12 +1,22 @@
 [
     {
-        "name": "Adilbek",
-        "lastname": "Kurmanbek uulu",
-        "age": 31
+        "title": "Компьютердин негизги бөлүктөрү жана алардын функциялары",
+        "description": "Компьютер деген эмне жана анын функцияларын окуп үйрөнүңүз",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png"
     },
     {
-        "name": "Kylychbek",
-        "lastname": "KJoldubaev",
-        "age": 27
+        "title": "Персонал компьютер",
+        "description": "Кымбаттуу окуучу, Персонал компьютер тууралуу окуп билиңиз",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png"
+    },
+    {
+        "title": "Компьютердик тармактар",
+        "description": "Кымбаттуу окуучу, компьютердин тармактары менен таанышыңыз",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png"
+    },
+    {
+        "title": "Системалык программалык камсыздоо",
+        "description": "Системалык программалык камсыздоо тууралуу окуңуз",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png"
     }
 ]
