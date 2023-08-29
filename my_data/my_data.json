@@ -3,17 +3,17 @@
         "title": "Компьютердин негизги бөлүктөрү жана алардын функциялары",
         "description": "Компьютер деген эмне жана анын функцияларын окуп үйрөнүңүз",
         "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png",
-        "computerParts": [
-            {
-                "tema": "Негизги плата – бул компьютердин ичиндеги негизги басма схемасы, анда компьютер системасынын ар кандай компоненттери жана түзүлүштөрү жайгаштырылган жана бири-бири менен иштешет. Бул процессор, оперативдүү эс, видеокарта, катуу диск жана башка түзүлүштөрдүн ортосундагы байланышты жана өз ара аракеттенүүнү камсыз кылган борбордук элемент.",
-                "name": "Негизги плата",
-                "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/nagizgi-plata.jpg",
-                "text": "Толук оку"
-            },
-            {
+        "tema": "Негизги плата – бул компьютердин ичиндеги негизги басма схемасы, анда компьютер системасынын ар кандай компоненттери жана түзүлүштөрү жайгаштырылган жана бири-бири менен иштешет. Бул процессор, оперативдүү эс, видеокарта, катуу диск жана башка түзүлүштөрдүн ортосундагы байланышты жана өз ара аракеттенүүнү камсыз кылган борбордук элемент.",
+        "name": "Негизги плата",
+        "imageUrl": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/nagizgi-plata.jpg",
+        "text": "Толук оку"
+    },
+            {"title": "Персонал компьютер",
+            "description": "Кымбаттуу окуучу, Персонал компьютер тууралуу окуп билиңиз",
+            "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png",
                 "tema": "Информатикада процессор (борбордук процессор же процессор) маалыматты иштетүүнүн негизги операцияларын аткарган компьютердик системанын негизги компоненти болуп саналат. Бул программалык көрсөтмөлөрдү аткарууга жана маалыматтарды иштетүүгө жооптуу компьютердин мээси.",
                 "name": "Процессор",
-                "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/processor.jpg",
+                "imageUrl": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/processor.jpg",
                 "text": "Толук оку"
             },
             {
