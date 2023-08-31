@@ -1,7 +1,6 @@
 {
-    
-        
-        
+    "informatica": [
+        {
             "title": "Компьютердин негизги бөлүктөрү жана алардын функциялары",
             "description": "Компьютер деген эмне жана анын функцияларын окуп үйрөнүңүз",
             "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png",
@@ -97,10 +96,7 @@
                     "text": "Толук оку"
                 }
             ]
-        
-       
-    ,
-    "two": [
+        },
         {
             "title": "Персонал компьютер",
             "description": "Кымбаттуу окуучу, Персонал компьютер тууралуу окуп билиңиз.",
