@@ -1,22 +1,22 @@
 [
     {
         "name": "ИНФОРМАТИКА",
-        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/informatica.png?raw=true",
+        "image": "https://img.icons8.com/?size=50&id=aUVwnhQe4Bce&format=gif",
         "title": "ТЕМАЛАР 40"
     },
     {
         "name": "ГЕОГРАФИЯ",
-        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/geography.png?raw=true",
+        "image": "https://img.icons8.com/?size=50&id=LmG49EnUQig9&format=gif",
         "title": "ТЕМАЛАР 40"
     },
     {
         "name": "ТАРЫХ",
-        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/history.png?raw=true",
+        "image": "https://img.icons8.com/?size=50&id=11559&format=png",
         "title": "ТЕМАЛАР 40"
     },
     {
         "name": "БИОЛОГИЯ",
-        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/biologe.png?raw=true",
+        "image": "https://img.icons8.com/?size=50&id=5y1i4oZVMejj&format=gif",
         "title": "ТЕМАЛАР 40"
     }
 ]
