@@ -1,117 +1,332 @@
 {
     "informatica": [
         {
-            "id": 1,
-            "guestion": "Компьютердик кейс деген эмне?",
-            "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/computer-case.jpg?raw=true",
-            "options": [
+            "personal_computer": [
                 {
-                    "answer": "Компьютердин компоненттердин камтыган жана коргогон физикалык кабык",
-                    "correct": true
+                    "id": 1,
+                    "guestion": "Компьютердик кейс деген эмне?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/computer-case.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Компьютердин компоненттердин камтыган жана коргогон физикалык кабык",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Программдоо тили",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Компьютердин чубалгылары",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Маалымат топтоочу жай",
+                            "correct": false
+                        }
+                    ]
                 },
                 {
-                    "answer": "Программдоо тили",
-                    "correct": false
+                    "id": 2,
+                    "guestion": "Процессор бул ...",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/processor.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Компьютер үчүн стол",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Компьютердин мээси",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Клавиатуранын бир түрү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Ноудбуктун акыркы версиясы",
+                            "correct": false
+                        }
+                    ]
                 },
                 {
-                    "answer": "Компьютердин чубалгылары",
-                    "correct": false
+                    "id": 3,
+                    "guestion": "Оперативдүү эс кандай кызмат аткарат",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/operativdik-es.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Сайт жана веб тиркемелерде иштөө үчүн браузер",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Маалыматтарды убактылуу сактап турат",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Компьтердин экранын көзөмөлдөп турат",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Маалыматтардын толуп кетүүсүн алдын алат",
+                            "correct": false
+                        }
+                    ]
                 },
                 {
-                    "answer": "Маалымат топтоочу жай",
-                    "correct": false
+                    "id": 4,
+                    "guestion": "HDD деп эмнени түшүнөсүз?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/hdd-ssd.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Кадимки дисктин өзү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Виндовс жана Линукс программасы",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Маалыматты туруктуу сактоо үчүн колдонулат",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Аудио сигналын иштетет",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Үн картасы",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/video-karta.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Компьютерди блокко коюуучу функция",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Процессордун бир түрү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Маалымат чогултуп кэшке сактайт",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Аудио сигналдарды иштетет",
+                            "correct": true
+                        }
+                    ]
                 }
-            ]
-        },
-        {
-            "id": 2,
-            "guestion": "Процессор бул ...",
-            "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/processor.jpg?raw=true",
-            "options": [
+            ],
+            "computerdic_tarmaktar": [
                 {
-                    "answer": "Компьютер үчүн стол",
-                    "correct": false
+                    "id": 1,
+                    "guestion": "Компьютердик тармактын топологиясы бул?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/computer-case.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Протокол дегенди билдирет",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Dart програмдоо тилинин логикасын аныктайт",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тармактын физикалык жана логикалык түзүлүшүн аныктайт",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Flutter фреймворктогу виджеттин бири",
+                            "correct": false
+                        }
+                    ]
                 },
                 {
-                    "answer": "Компьютердин мээси",
-                    "correct": true
+                    "id": 2,
+                    "guestion": "Кээ бир белгилүү протоколдор",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/processor.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "АТС станциясы",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Сайттын административдик жоболору",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Протокол бул кагаз иши",
+                            "correct": false
+                        },
+                        {
+                            "answer": "TCP/IP,Eithernet,Wi-Fi,HTTP,FTP",
+                            "correct": true
+                        }
+                    ]
                 },
                 {
-                    "answer": "Клавиатуранын бир түрү",
-                    "correct": false
+                    "id": 3,
+                    "guestion": "Тармактык жабдык кандай кызмат аткарат",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/operativdik-es.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Компьютерге вирус киргизүүчү код",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тармактагы түзмөктөр ортосунда байланышты жана маалыматтарды берүүнү камсыз кылат",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Дискке маалымат сактоочу программа",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Эс тутумга террабайттык эс тутум кошуучу программа",
+                            "correct": false
+                        }
+                    ]
                 },
                 {
-                    "answer": "Ноудбуктун акыркы версиясы",
-                    "correct": false
+                    "id": 4,
+                    "guestion": "192.168.0.1 же 192.168.1.1 эмне болушу мүмкүн?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/hdd-ssd.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Програмдоо тилинин логикасы",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Клавиатура коюуучу жай",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Компьютердик кейс",
+                            "correct": false
+                        },
+                        {
+                            "answer": "IP дарек түрү",
+                            "correct": true
+                        }
+                    ]
                 }
-            ]
-        },
-        {
-            "id": 3,
-            "guestion": "Оперативдүү эс кандай кызмат аткарат",
-            "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/operativdik-es.jpg?raw=true",
-            "options": [
+            ],
+            "sistemalyk_kamsyzdoo": [
                 {
-                    "answer": "Сайт жана веб тиркемелерде иштөө үчүн браузер",
-                    "correct": false
+                    "id": 1,
+                    "guestion": "Операциялык система бул?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/computer-case.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Интерфейсти камсыздоочу негизги программалык камсыздоо",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Протоколдор жыйнагы",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Компьютерди жандыруучу блок",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Программаларды сактоочу диск",
+                            "correct": false
+                        }
+                    ]
                 },
                 {
-                    "answer": "Маалыматтарды убактылуу сактап турат",
-                    "correct": true
+                    "id": 2,
+                    "guestion": "Колдонмо программалык камсыздоо деп эмнени түшүндүңүз",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/processor.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Компьютердин IP дареги",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тиркемелер жоболору",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Катуу дисктин сактоочу папкалары",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тиркемелер",
+                            "correct": true
+                        }
+                    ]
                 },
                 {
-                    "answer": "Компьтердин экранын көзөмөлдөп турат",
-                    "correct": false
+                    "id": 3,
+                    "guestion": "Маалымат базасы деп эмнени айтабыз?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/operativdik-es.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Сактоочу диск",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Маалыматтарды түзүү, башкаруу жана иштетүү",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Маалыматты жокко чыгаруу программасы",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Графиканын жогорку деңгеелин чагылдыруу",
+                            "correct": false
+                        }
+                    ]
                 },
                 {
-                    "answer": "Маалыматтардын толуп кетүүсүн алдын алат",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "guestion": "HDD деп эмнени түшүнөсүз?",
-            "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/hdd-ssd.jpg?raw=true",
-            "options": [
-                {
-                    "answer": "Кадимки дисктин өзү",
-                    "correct": false
+                    "id": 4,
+                    "guestion": "Программалык камсыздоону иштеп чыгуу бул?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/hdd-ssd.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Персоналдык компьютерге вирустук программаны жүктөө",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Программа түзүүгө программа тилин иштеп чыгуу",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Компьютер чубалгыларын орноштуруу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "IP дарек түрү",
+                            "correct": false
+                        }
+                    ]
                 },
                 {
-                    "answer": "Виндовс жана Линукс программасы",
-                    "correct": false
-                },
-                {
-                    "answer": "Маалыматты туруктуу сактоо үчүн колдонулат",
-                    "correct": true
-                },
-                {
-                    "answer": "Аудио сигналын иштетет",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "guestion": "Үн картасы",
-            "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/video-karta.jpg?raw=true",
-            "options": [
-                {
-                    "answer": "Компьютерди блокко коюуучу функция",
-                    "correct": false
-                },
-                {
-                    "answer": "Процессордун бир түрү",
-                    "correct": false
-                },
-                {
-                    "answer": "Маалымат чогултуп кэшке сактайт",
-                    "correct": false
-                },
-                {
-                    "answer": "Аудио сигналдарды иштетет",
-                    "correct": true
+                    "id": 5,
+                    "guestion": "Тармактык программалык камсыздоо деген эмне?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/hdd-ssd.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Монитордун акыркы версиясы",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Компилятор менен иштөөчү машиналык код",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Фреймворк үчүн колдонуучу програмдоо тили",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Компьютердик тармактарда байланышты жана маaлымат алмашууну камсыз кылат",
+                            "correct": true
+                        }
+                    ]
                 }
             ]
         }
