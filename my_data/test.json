@@ -122,7 +122,7 @@
                 {
                     "id": 1,
                     "guestion": "Компьютердик тармактын топологиясы бул?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/computer-case.jpg?raw=true",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computerdik_tarmaktar/%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.jpg?raw=true",
                     "options": [
                         {
                             "answer": "Протокол дегенди билдирет",
@@ -145,7 +145,7 @@
                 {
                     "id": 2,
                     "guestion": "Кээ бир белгилүү протоколдор",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/processor.jpg?raw=true",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computerdik_tarmaktar/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB.jpg?raw=true",
                     "options": [
                         {
                             "answer": "АТС станциясы",
@@ -168,7 +168,7 @@
                 {
                     "id": 3,
                     "guestion": "Тармактык жабдык кандай кызмат аткарат",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/operativdik-es.jpg?raw=true",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computerdik_tarmaktar/%D0%BA%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C.jpg?raw=true",
                     "options": [
                         {
                             "answer": "Компьютерге вирус киргизүүчү код",
@@ -191,7 +191,7 @@
                 {
                     "id": 4,
                     "guestion": "192.168.0.1 же 192.168.1.1 эмне болушу мүмкүн?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/hdd-ssd.jpg?raw=true",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computerdik_tarmaktar/ip.jpg?raw=true",
                     "options": [
                         {
                             "answer": "Програмдоо тилинин логикасы",
