@@ -216,7 +216,7 @@
                 {
                     "id": 1,
                     "guestion": "Операциялык система бул?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/computer-case.jpg?raw=true",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D0%BE%D0%BF%D0%B5%D1%80%D1%86%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.jpg?raw=true",
                     "options": [
                         {
                             "answer": "Интерфейсти камсыздоочу негизги программалык камсыздоо",
@@ -239,7 +239,7 @@
                 {
                     "id": 2,
                     "guestion": "Колдонмо программалык камсыздоо деп эмнени түшүндүңүз",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/processor.jpg?raw=true",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.jpg?raw=true",
                     "options": [
                         {
                             "answer": "Компьютердин IP дареги",
@@ -262,7 +262,7 @@
                 {
                     "id": 3,
                     "guestion": "Маалымат базасы деп эмнени айтабыз?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/operativdik-es.jpg?raw=true",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D0%BC%D0%B0%D0%B0%D0%BB%D1%8B%D0%BC%D0%B0%D1%82_%D0%B1%D0%B0%D0%B7%D0%B0%D1%81%D1%8B.jpg?raw=true",
                     "options": [
                         {
                             "answer": "Сактоочу диск",
@@ -285,7 +285,7 @@
                 {
                     "id": 4,
                     "guestion": "Программалык камсыздоону иштеп чыгуу бул?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/hdd-ssd.jpg?raw=true",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE_%D0%B8%D1%88%D1%82%D0%B5%D0%BF_%D1%87%D1%8B%D0%B3%D1%83%D1%83.jpg?raw=true",
                     "options": [
                         {
                             "answer": "Персоналдык компьютерге вирустук программаны жүктөө",
@@ -308,7 +308,7 @@
                 {
                     "id": 5,
                     "guestion": "Тармактык программалык камсыздоо деген эмне?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/hdd-ssd.jpg?raw=true",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
                     "options": [
                         {
                             "answer": "Монитордун акыркы версиясы",
