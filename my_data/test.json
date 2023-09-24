@@ -1982,233 +1982,256 @@
                     ]
                 }
             ],
-            "italia_V_X": [
+            "asia": [
                 {
                     "id": 1,
-                    "guestion": "Кайра жаралуу доорунда Италиянын кайсы шаар-мамлекети белгилүү соода жана маданият борборуна айланган?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B81.jpg?raw=true",
+                    "guestion": "Азия континентинин жалпы аянты?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/asia_continent.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "Милан",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Венеция",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Рим",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Флоренция",
+                            "answer": "43,4 миллион чарчы метрден ашык",
                             "correct": true
+                        },
+                        {
+                            "answer": "40,7 миллион чарчы метр",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Азия континент эмес",
+                            "correct": false
+                        },
+                        {
+                            "answer": "70 миллион чарчы метрден ашык",
+                            "correct": false
                         }
                     ]
                 },
                 {
                     "id": 2,
-                    "guestion": "5-10 кылымдын башында Италияда кандай саясий өзгөрүүлөр болуп, көптөгөн майда мамлекеттерге, территорияларга бөлүнүүгө алып келди?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B82.jpg?raw=true",
+                    "guestion": "Батышта Азиянын чек арасы кайсыл тоолор менен өтөт?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%83%D1%80%D0%B0%D0%BB_%D1%82%D0%BE%D0%BE%D0%BB%D0%BE%D1%80%D1%83.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "Италияда христиан динин кабыл алуу",
+                            "answer": "Тоо жок түздүк менен",
                             "correct": false
                         },
                         {
-                            "answer": "Италиянын крест жортуулдарына катышуусу",
+                            "answer": "Тянь-Шань кырка тоолору менен",
                             "correct": false
                         },
                         {
-                            "answer": "Рим империясынын Италияны басып алуусу",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Острогот жана Византия падышалыктарынын, ошондой эле Ломбард падышалыгынын пайда болушу",
+                            "answer": "Урал тоолору менен",
                             "correct": true
+                        },
+                        {
+                            "answer": "Эверест тоосу менен",
+                            "correct": false
                         }
                     ]
                 },
                 {
                     "id": 3,
-                    "guestion": "Кайсы кылымда Франк королу Карл Италиянын бөлүгүн басып алып Каролинг империясын курду?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B83.jpg?raw=true",
+                    "guestion": "Азиянын чыгышын курчап турган океан?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "XII-кылымда",
+                            "answer": "Түндүк муз океан",
                             "correct": false
                         },
                         {
-                            "answer": "VIII-кылымда",
+                            "answer": "Инди океаны",
                             "correct": true
                         },
                         {
-                            "answer": "V-кылымда",
+                            "answer": "Тынч океан",
                             "correct": false
                         },
                         {
-                            "answer": "VII-кылымда",
+                            "answer": "Атлантика океаны",
                             "correct": false
                         }
                     ]
                 },
                 {
                     "id": 4,
-                    "guestion": "Карл Италияда анын тушунда кандай реформаларды жүргүзгөн?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B84.jpg?raw=true",
+                    "guestion": "Батыш жана Чыгыш Сибирдин климаты?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D0%B1%D0%B0%D1%82%D1%8B%D1%88_%D1%81%D0%B8%D0%B1%D0%B8%D1%80.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "Билим берүү, сот жана чиркөө уюмдарында реформалар",
+                            "answer": "Жарым чөлдүү жана чөлдүү",
                             "correct": true
                         },
                         {
-                            "answer": "Экономика, аскердик система жана соода тармагындагы реформалар",
+                            "answer": "Континеттик",
                             "correct": false
                         },
                         {
-                            "answer": "Айыл чарбасында жана инфраструктурада реформалар",
+                            "answer": "Муссондук мезгил",
                             "correct": false
                         },
                         {
-                            "answer": "Салык жана соода реформалары",
+                            "answer": "Эквадордук",
                             "correct": false
                         }
                     ]
                 },
                 {
                     "id": 5,
-                    "guestion": "Кайсы кылымда Италия Тоскан Маркграфтары жана Сполето графтары сыяктуу ар кандай феодалдык башкаруучулар менен күчтүү үй-бүлөлөрдүн ортосунда күрөш болгон?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B85.jpg?raw=true",
+                    "guestion": "Янцзы дарыясынын узундугу",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%8F%D0%BD%D1%86%D1%8B_%D0%B4%D0%B0%D1%80%D1%8B%D1%8F%D1%81%D1%8B.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "6 - кылымда",
+                            "answer": "4600 км",
                             "correct": false
                         },
                         {
-                            "answer": "12 - кылымда",
+                            "answer": "250 км",
                             "correct": false
                         },
                         {
-                            "answer": "16 - кылымда",
+                            "answer": "7578 км",
                             "correct": false
                         },
                         {
-                            "answer": "9 - кылымда",
+                            "answer": "6300 км",
                             "correct": true
                         }
                     ]
                 },
                 {
                     "id": 6,
-                    "guestion": "10-кылымда Италиянын саясий жана экономикалык турмушунда кайсы шаар-мамлекеттер маанилүү роль ойной баштаган?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B86.jpg?raw=true",
+                    "guestion": "Азиядагы эң чоң беш көлдүн катарына Ысык-Көл киреби?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%8B%D1%81%D1%8B%D0%BA_%D0%BA%D3%A9%D0%BB.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "'Пиза, Турин и Болонья",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Рим, Милан жана Неаполь",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Флоренция, Венеция жана Генуя",
+                            "answer": "Ооба кирет",
                             "correct": true
                         },
                         {
-                            "answer": "Мадрид, Париж и Лондон",
+                            "answer": "Жоок кирбейт",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Ысык-Көл азыркы учурда кирбей калган",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Балхаш да Ысык-Көл да кирбейт",
                             "correct": false
                         }
                     ]
                 },
                 {
                     "id": 7,
-                    "guestion": "Кайсы шаар-мамлекеттер Италияда искусствонун, архитектуранын жана Ренессанс искусствосунун борборлору болуп калды?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B87.jpg?raw=true",
+                    "guestion": "Азиядагы эң чоң тоо?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%8D%D0%B2%D0%B5%D1%80%D0%B5%D1%81%D1%82_%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D0%B0.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "Париж, Лондон жана Мадрид",
+                            "answer": "Гималай",
                             "correct": false
                         },
                         {
-                            "answer": "Венеция, Генуя жана Турин",
+                            "answer": "Алтай",
                             "correct": false
                         },
                         {
-                            "answer": "Рим, Милан жана Неаполь",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Флоренция, Пиза жана Сиена",
+                            "answer": "Эверест",
                             "correct": true
+                        },
+                        {
+                            "answer": "Саян",
+                            "correct": false
                         }
                     ]
                 },
                 {
                     "id": 8,
-                    "guestion": "Чыгыш менен Батышты байланыштырган соода?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B88.jpg?raw=true",
+                    "guestion": "Азиянын деерлик калкы кайсыл расаны түзөт?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%80%D0%B0%D1%81%D0%B0%D0%BB%D0%B0%D1%80.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "Неаполь жана Турин",
+                            "answer": "Австралоид",
                             "correct": false
                         },
                         {
-                            "answer": "Венеция жана Генуя",
+                            "answer": "Негроид",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Европеид",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Монголоид",
                             "correct": true
-                        },
-                        {
-                            "answer": "Рим жана Милан",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Флоренция жана Пиза",
-                            "correct": false
                         }
                     ]
                 },
                 {
                     "id": 9,
-                    "guestion": "Бул мезгилде Италиянын биримдигин жана стабилдүүлүгүн кандай факторлор начарлатты?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B89.jpg?raw=true",
+                    "guestion": "Азиянын эң чоң өлкөсү?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/asia_continent.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "Табигый кырсыктар",
+                            "answer": "Сауд-Арабиясы",
                             "correct": false
                         },
                         {
-                            "answer": "Экономикалык мүчүлүштүктөр",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Шаарлар менен мамлекеттер ортосундагы ички чыр-чатактарбчет элдик аскерлердин жана баскынчылардын таасири",
+                            "answer": "Кытай",
                             "correct": true
                         },
                         {
-                            "answer": "маданий айырмачылыктар, диний талаш-тартыштар",
+                            "answer": "Казакстан",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Индия",
                             "correct": false
                         }
                     ]
                 },
                 {
                     "id": 10,
-                    "guestion": "X-кылымдын аягында Италиядагы бийлик үчүн күрөшкө кайсы мамлекеттер жана башкаруучулар катышкан?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B810.jpg?raw=true",
+                    "guestion": "Калкынын саны боюнча эң көп калктуу өлкө?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%8D%D0%BB%D0%B4%D0%B5%D1%80.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "Норман Королдугу Түштүк Италия жана Сицилия, Папа мамлекеттери жана Германия императорлору",
+                            "answer": "Индия",
                             "correct": true
                         },
                         {
-                            "answer": "Француз королдору жана англис ханышалары",
+                            "answer": "Жапония",
                             "correct": false
                         },
                         {
-                            "answer": "Монгол империясы жана Осмон султандары",
+                            "answer": "Кытай",
                             "correct": false
                         },
                         {
-                            "answer": "Испан конкистадорлору жана инка императорлору",
+                            "answer": "Индонезия",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "guestion": "Эверест тоосунун бийиктиги?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%8D%D0%B2%D0%B5%D1%80%D0%B5%D1%81%D1%82.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "8848 м",
+                            "correct": true
+                        },
+                        {
+                            "answer": "7688 м",
+                            "correct": false
+                        },
+                        {
+                            "answer": "9325 м",
+                            "correct": false
+                        },
+                        {
+                            "answer": "8849 м",
                             "correct": false
                         }
                     ]
