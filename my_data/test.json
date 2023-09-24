@@ -978,6 +978,169 @@
                         }
                     ]
                 }
+            ],
+            "rim": [
+                {
+                    "id": 1,
+                    "guestion": "Рим империясы деген эмне жана кайсыл жылдан бери жашап келген?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/%D1%80%D0%B8%D0%BC.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "400-жылдарда курулуп баштаган шаар",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Рим империясы биздин заманга чейинки 27-жылдан бери жашап келе жаткан байыркы мамлекет",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Сактардын мамлекети",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Француздардын колониясы болгон",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "guestion": "Октавиан деген ким болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/%D0%BE%D0%BA%D1%82%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Римдин кулашын алдын алган согушкер баатыр",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Август титулуна ээ болгон биринчи Рим императору",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Варварлар жол баштоочусу болгон",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Римдин мыйзамын толук жазган адам",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "guestion": "Рим империясы камтыган аймак",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/%D1%80%D0%B8%D0%BC_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F%D1%81%D1%8B%D0%BD%D1%8B%D0%BD_%D0%B0%D1%84%D0%BC%D0%B0%D0%B3%D1%8B.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Африка",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Чыгыш Азия жана Батыш Европа аймагы",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Азия, Түндүк Америка, Түштүк Америка",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Европа, Түндүк Африка, Жакынкы чыгыштын бир бөлүгү",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "guestion": "Рим империясы кандай мурастары менен белгилүү болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/19781236.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Ат чабуу, олимпиада оюндарын уюштуруу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Башка басып алууларды болтурбоо",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Мыйзамдар, инфраструктуралар, инженердик жетишкендиктер жана маданий",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Боек, кийим жасоо",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Рим империясы башка аймактарды ийгиликтүү басып алуусуна эмне түрткү болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/pimImperiasy5.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Кулдарды багып согушка салган",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Башка императорлор Римге кошулгусу келген",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Согушка жалаң дыйкандарын салып турган",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Алардын аскерлери эң тартиптүү жана күчтүү армиясы болгон",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "guestion": "Рим империясынын ыдырашына кандай көйгөйлөр түрткү болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/pimImperiasy6.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "'Ички чыр-чатактар, саясий интригалар, экономикалык кыйынчылыктар жана варварлар урууларынын чабуулдары",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Римдиктер жерлерин таштап кеткен",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Буудай айдоолору күйүп элдин ачка калуусу себеп болгон",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Алардын армиясы өздөрүнүн элине кол салган",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Цицерон, Вирджил, Овид жана Тацит булар ким болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/pimImperiasy7.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Согуш стратегияларын түзгөн",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Рим жазуучулары, тарых, философия,поезия жана риторикаларды жаратышкан",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Кулдардын насаатчылары болгон",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Жогорку саясий башчыларынын каршылаштары болгон",
+                            "correct": true
+                        }
+                    ]
+                }
             ]
         }
     ]
