@@ -328,6 +328,656 @@
                         }
                     ]
                 }
+            ],
+            "nemis_koroldugy": [
+                {
+                    "id": 1,
+                    "guestion": "V-X кылымдарда Германиянын падышалыгы кандай шарттарда болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B31.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Германиянын падышалыгы бытыранды болгон жана ар кандай уруулардын жана варвар элдеринин болушу менен мүнөздөлгөн.",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Германия падышалыгы бирдиктүү жана борборлоштурулган эл болгон",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Бул мезгилде Германия толугу менен Рим империясынын таасиринде болгон.",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Бул мезгилде Германдар жок эл болчу",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "guestion": "V-X-кылымдарда бөлүнгөн Германияда башкаруунун кандай формалары болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B32.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Ханзаадалар",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Герцогдор",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Вицеройлор",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Падышалар",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "guestion": "V-кылымда Ыйык Рим императорунун таажысын кийген саксондор династиясынын эң белгилүү падышаларынын бири ким болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B33.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Фридрих I Барбаросса",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Оттон I",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Улуу Карл",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Генрих IV",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "guestion": "Майнцтагы кайсы монастырь жазуу жана маданият жаралган жана тараган маанилүү борборго айланган?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B34.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Монастырь Сан-Лоренцо",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Монастырь Святого Мартиниана",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Монастырь Сан-Мигель",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Монастырь Санта-Мария",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Кайсы доордо герман королдугу бытыранды жана түрдүү, анын ичинде ар кандай герман уруулары жана варвар уруулары болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B35.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Кайра жаралуу доорунда",
+                            "correct": false
+                        },
+                        {
+                            "answer": "19-кылымда",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Азыркы доордо",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Алгачкы орто кылымдарда",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "guestion": "Германия королдугунун бытырандылык мезгилиндеги герман урууларынын жана варвар урууларынын маданиятына кандай өзгөчөлүктөр мүнөздүү болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B36.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Күчтүү борборлоштурулган мамлекет жана империя",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Философиянын жана илимдин өнүгүшү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Бай адабий салт жана сүрөт искусствосу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Согуш өнөрүнө жана малчылыкка негизделген алгачкы маданият",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Миссионерлердин, анын ичинде Сент-Бонифастын аркасында Германия падышачылыгында кандай диний таасир жайылган?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B37.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Христиандык",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Ислам",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Иудаизм",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Паганизм",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "guestion": "Биринчи Ыйык Рим императору жана 10-кылымда герман падышалыктарынын биригишине алып келген ким?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B38.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Улуу Карл",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Оттон I",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Фридрих I Барбаросса",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Луис Бавария",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "guestion": "Немис королдугунун тарыхында улуу герман падышалары жана императорлору кандай из калтырышкан?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B39.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Жаңы аймактарды ачуу жана басып алуу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Германиянын маданиятына жана тарыхына олуттуу таасир тийгизген",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Маданият менен искусствонун гүлдөп турган учуру",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Саясий биримдик жана стабилдүүлүк",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "baiyrky_germandar": [
+                {
+                    "id": 1,
+                    "guestion": "Байыркы немистердин биздин заманга чейинки кайсы жылдардан бери келген?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D0%BE%D0%BF%D0%B5%D1%80%D1%86%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "2000 жылдыкта",
+                            "correct": true
+                        },
+                        {
+                            "answer": "4000 жылдыкта",
+                            "correct": false
+                        },
+                        {
+                            "answer": "3200 жылдыкта",
+                            "correct": false
+                        },
+                        {
+                            "answer": "1000 жылдыкта",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "guestion": "Байыркы немистер кайсыл чоң топко кирген?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Байыркы Римден бөлүнүп чыккан эл болгон",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Монголоид тегинен болушкан",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Варварлар уруусунан болушкан",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Индоевропа элинин чоң тобуна кирген",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "guestion": "Байыркы немистер байырлаган аймактар",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D0%BC%D0%B0%D0%B0%D0%BB%D1%8B%D0%BC%D0%B0%D1%82_%D0%B1%D0%B0%D0%B7%D0%B0%D1%81%D1%8B.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "азыркы Канада, Иран, Ирак",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Германия, Голландия, Дания, Швеция, Норвегия",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Африка континенти",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Испания,Португалия, Ливан, Италия",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "guestion": "Немистер Римдиктер менен Тевтобург токойундагы салгылашууда немистердин лидери ким болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE_%D0%B8%D1%88%D1%82%D0%B5%D0%BF_%D1%87%D1%8B%D0%B3%D1%83%D1%83.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Арпия",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Валам",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Арминиус",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Ариовист",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Байыркы немистердин экономикасынын негизгисин эмнелер түзгөн?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Алтын жана күмүш казуу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Римдиктерге куралдарды жасап берүү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Балык уулоо жолу гана",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Дыйканчылык, малчылык, кол өнөрчүлүк",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "guestion": "Батыш Рим империясынын аймагына немис уруулары кайсыл кылымдарда кол сала баштаган?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "'Биздин замандын V кылымында",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Биздин замандын 2 кылымында",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Биздин заманга чейин 2000 жылдыкта",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Биздин замандын 3 кылымында",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Биздин замандын 9-жылы Рим императору Августка кайсы герман лидери каршылык көрсөткөн?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Германий",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тевтобург",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Варус",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Арминий",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "guestion": "Кайсы герман эли темир согуу жана соода өнөрү менен белгилүү болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Тевтондор",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Свевдер",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Лангобардтар",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Херусктар",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "guestion": "Кайсы герман тайпасы өзүнүн деңиздеги чеберчилиги жана дирижабльдары менен белгилүү болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Аламандар",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Вестготтор",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Ютландтар",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Саксондор",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "italia_V_X": [
+                {
+                    "id": 1,
+                    "guestion": "Кайра жаралуу доорунда Италиянын кайсы шаар-мамлекети белгилүү соода жана маданият борборуна айланган?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D0%BE%D0%BF%D0%B5%D1%80%D1%86%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Милан",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Венеция",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Рим",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Флоренция",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "guestion": "5-10 кылымдын башында Италияда кандай саясий өзгөрүүлөр болуп, көптөгөн майда мамлекеттерге, территорияларга бөлүнүүгө алып келди?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Италияда христиан динин кабыл алуу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Италиянын крест жортуулдарына катышуусу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Рим империясынын Италияны басып алуусу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Острогот жана Византия падышалыктарынын, ошондой эле Ломбард падышалыгынын пайда болушу",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "guestion": "Кайсы кылымда Франк королу Карл Италиянын бөлүгүн басып алып Каролинг империясын курду?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D0%BC%D0%B0%D0%B0%D0%BB%D1%8B%D0%BC%D0%B0%D1%82_%D0%B1%D0%B0%D0%B7%D0%B0%D1%81%D1%8B.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "XII-кылымда",
+                            "correct": false
+                        },
+                        {
+                            "answer": "VIII-кылымда",
+                            "correct": true
+                        },
+                        {
+                            "answer": "V-кылымда",
+                            "correct": false
+                        },
+                        {
+                            "answer": "VII-кылымда",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "guestion": "Карл Италияда анын тушунда кандай реформаларды жүргүзгөн?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE_%D0%B8%D1%88%D1%82%D0%B5%D0%BF_%D1%87%D1%8B%D0%B3%D1%83%D1%83.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Билим берүү, сот жана чиркөө уюмдарында реформалар",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Экономика, аскердик система жана соода тармагындагы реформалар",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Айыл чарбасында жана инфраструктурада реформалар",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Салык жана соода реформалары",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Кайсы кылымда Италия Тоскан Маркграфтары жана Сполето графтары сыяктуу ар кандай феодалдык башкаруучулар менен күчтүү үй-бүлөлөрдүн ортосунда күрөш болгон?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "6 - кылымда",
+                            "correct": false
+                        },
+                        {
+                            "answer": "12 - кылымда",
+                            "correct": false
+                        },
+                        {
+                            "answer": "16 - кылымда",
+                            "correct": false
+                        },
+                        {
+                            "answer": "9 - кылымда",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "guestion": "10-кылымда Италиянын саясий жана экономикалык турмушунда кайсы шаар-мамлекеттер маанилүү роль ойной баштаган?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "'Пиза, Турин и Болонья",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Рим, Милан жана Неаполь",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Флоренция, Венеция жана Генуя",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Мадрид, Париж и Лондон",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Кайсы шаар-мамлекеттер Италияда искусствонун, архитектуранын жана Ренессанс искусствосунун борборлору болуп калды?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Париж, Лондон жана Мадрид",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Венеция, Генуя жана Турин",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Рим, Милан жана Неаполь",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Флоренция, Пиза жана Сиена",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "guestion": "Чыгыш менен Батышты байланыштырган соода?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Неаполь жана Турин",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Венеция жана Генуя",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Рим жана Милан",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Флоренция жана Пиза",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "guestion": "Бул мезгилде Италиянын биримдигин жана стабилдүүлүгүн кандай факторлор начарлатты?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Табигый кырсыктар",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Экономикалык мүчүлүштүктөр",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Шаарлар менен мамлекеттер ортосундагы ички чыр-чатактарбчет элдик аскерлердин жана баскынчылардын таасири",
+                            "correct": true
+                        },
+                        {
+                            "answer": "маданий айырмачылыктар, диний талаш-тартыштар",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "guestion": "X-кылымдын аягында Италиядагы бийлик үчүн күрөшкө кайсы мамлекеттер жана башкаруучулар катышкан?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Норман Королдугу Түштүк Италия жана Сицилия, Папа мамлекеттери жана Германия императорлору",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Француз королдору жана англис ханышалары",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Монгол империясы жана Осмон султандары",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Испан конкистадорлору жана инка императорлору",
+                            "correct": false
+                        }
+                    ]
+                }
             ]
         }
     ]
