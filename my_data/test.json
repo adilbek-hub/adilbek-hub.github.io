@@ -328,7 +328,11 @@
                         }
                     ]
                 }
-            ],
+            ]
+        }
+    ],
+    "history": [
+        {
             "nemis_koroldugy": [
                 {
                     "id": 1,
