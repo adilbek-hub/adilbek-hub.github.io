@@ -2838,5 +2838,590 @@
                 }
             ]
         }
+    ],
+    "biology": [
+        {
+            "men_and_animal": [
+                {
+                    "id": 1,
+                    "guestion": "Кишинин сүт эмүүчү жаныбардан айырмасы?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam1.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Өлчөмү: Адамдын көлөмү башка сүт эмүүчүлөрдөн өзгөчө айырмаланбайт.",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Адамдын уникалдуу анатомиялык өзгөчөлүгү бар, тик туруу, чоң мээнин өнүгүшү",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Чач: Чачтын болушу адамдарды башка сүт эмүүчүлөрдөн айырмалай албайт, анткени алардын көбүнүн чачы да бар.",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тери: жүнүнүн жетишсиздиги адамдардын өзгөчө бир өзгөчөлүгү эмес, анткени көпчүлүк сүт эмүүчүлөрдүн жүндөрү жок.",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "guestion": "Сүт эмүүчүлөрдүн денеси кандай системалардан турат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam2.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Нерв, кан айлануу, дем алуу жана тамак сиңирүү",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Булчуң, сөөк, эндокриндик жана репродуктивдүү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Бөлүп чыгаруучу, иммундук, дем алуу жана кан айлануу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тери, лимфа, эндокриндик жана тамак сиңирүү",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "guestion": "Адамдардын кайсы анатомиялык өзгөчөлүгү уникалдуу?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam3.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Большой мозг",
+                            "correct": false
+                        },
+                        {
+                            "answer": "бипедализм",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Куралдарды колдонуу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Жогоруда айтылгандардын баары",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "guestion": "Адамдын эмчек сүтү башка сүт эмүүчүлөрдөн эмнеси менен айырмаланат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam4.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Балдарды багуу үчүн адам сүт чыгарбайт",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Адамдын эмчек эмизүүсү социалдык жана маданий жактан көбүрөөк уюштурулган",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Эркек балдарын сүт менен бакпайт",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Адамдардын сүт менен тамактануусу башка сүт эмүүчүлөрдөн эч айырмаланбайт.",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Сүт эмүүчүлөр менен адамдарда курчап турган дүйнөнү үйрөнүү, жаттоо жана кабылдоо жөндөмүн эмне камсыз кылат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/video-karta.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Өнүккөн нерв системасы",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Диетадагы атаандаштыктын жоктугу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Физикалык активдүүлүктүн жогорку деңгээли",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Узак уйку",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Адамдардын акылынын жана жүрүм-турумунун өзгөчөлүгү эмнеде?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam5.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Татаал социалдык өз ара аракеттенүүнү өнүктүрүү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тил жана маданият",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Абстрактуу ой жүгүртүү жана чыгармачылык",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Жогоруда айтылгандардын баары",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Сүт эмүүчүлөрдүн жана адамдардын ар кандай чөйрөгө жана шарттарга ыңгайлашуусуна мүмкүндүк берген кандай жөндөмдөр бар?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam6.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Экологиялык пластикалык",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Өнүккөн физикалык өзгөчөлүктөрү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Теринин түсүн өзгөртүү мүмкүнчүлүгү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Канаттардын болушу",
+                            "correct": true
+                        }
+                    ]
+                }
+            ],
+            "computerdic_tarmaktar": [
+                {
+                    "id": 1,
+                    "guestion": "Компьютердик тармактын топологиясы бул?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam1.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Протокол дегенди билдирет",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Dart програмдоо тилинин логикасын аныктайт",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тармактын физикалык жана логикалык түзүлүшүн аныктайт",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Flutter фреймворктогу виджеттин бири",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "guestion": "Кээ бир белгилүү протоколдор",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam2.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "АТС станциясы",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Сайттын административдик жоболору",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Протокол бул кагаз иши",
+                            "correct": false
+                        },
+                        {
+                            "answer": "TCP/IP,Eithernet,Wi-Fi,HTTP,FTP",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "guestion": "Тармактык жабдык кандай кызмат аткарат",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam3.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Компьютерге вирус киргизүүчү код",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тармактагы түзмөктөр ортосунда байланышты жана маалыматтарды берүүнү камсыз кылат",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Дискке маалымат сактоочу программа",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Эс тутумга террабайттык эс тутум кошуучу программа",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "guestion": "192.168.0.1 же 192.168.1.1 эмне болушу мүмкүн?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam5.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Програмдоо тилинин логикасы",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Клавиатура коюуучу жай",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Компьютердик кейс",
+                            "correct": false
+                        },
+                        {
+                            "answer": "IP дарек түрү",
+                            "correct": true
+                        }
+                    ]
+                }
+            ],
+            "kletka": [
+                {
+                    "id": 1,
+                    "guestion": "Клетканы курчап турган жана аны тышкы чөйрөдөн эмне бөлүп турат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka1.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Ядро",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Митохондрия",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Цитоплазма",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Мембрана",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "guestion": "Ядро менен клетка кабыкчасынын ортосундагы мейкиндикти кайсы зат толтурат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka2.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Цитоплазма",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Генетикалык маалымат",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Эндоплазматикалык сеть",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Гольджи",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "guestion": "Клеткадагы энергияны өндүрүүдө кайсы органоид иштейт?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka3.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Митохондрия",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Гольджи",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Лизосома",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Ядро",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "guestion": "Белок синтезин кайсы органелл аткарат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka4.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Митохондрия",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Гольджи",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Цитоплазма",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Ядро",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Клетканын бөлүнүү процесси эмне деп аталат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka5.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Митоз",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Метаболизм",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Митохондрия",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Мембрана",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Клеткалар айлана-чөйрө менен эмне кылат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka6.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Белокторду синтездейт",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тукум",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Азык заттарды сиңирип, калдыктарды сыртка чыгарат",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Энергия өндүрүү",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Клетка ядросундагы генетикалык маалымат кайсы молекулада бар?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka7.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "РНК (рибонуклеин кислотасы)",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Глюкоза",
+                            "correct": false
+                        },
+                        {
+                            "answer": "ДНК (дезоксирибонуклеин кислотасы)",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Липиддер",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Клеткадагы генетикалык маалыматты эмне аныктайт?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka8.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Көздүн түсү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Органдын функциялары",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Клетка өлчөмү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Дене жашы",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "ДНК молекуласында нуклеотиддердин ырааттуулугу катары эмне сакталат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka9.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Белоктор",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Суу",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Глюкоза",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Генетикалык маалымат",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Генетикалык маалыматтын бир муундан экинчи муунга өтүшү эмне деп аталат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka10.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Метаболизм",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Репродукция",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Фотосинтез",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Генетикалык берүү",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Организмдердин өсүп-өнүгүшүнүн негизи эмнеде?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka11.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Фотосинтез",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Зат алмашуу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Митоз",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Метаболизм",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Кайсы органоид молекулаларды иштетүү жана таңгактоо үчүн жооптуу?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka12.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Митохондрия",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Гольджтар",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Лизосома",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Эндоплазмалык сеть",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Митохондрия клеткада эмнени жаратат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka13.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Энергияны",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Белокторду",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Сууну",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Көмүр кычкыл газын",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Клетка функцияларын кайсы органелл башкарат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka14.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Митохондрия",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Гольджтор",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Ядро",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Лизосома",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
