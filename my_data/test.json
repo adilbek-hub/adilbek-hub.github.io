@@ -2237,165 +2237,602 @@
                     ]
                 }
             ],
-            "rim": [
+            "world_country_capitals": [
                 {
                     "id": 1,
-                    "guestion": "Рим империясы деген эмне жана кайсыл жылдан бери жашап келген?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/%D1%80%D0%B8%D0%BC.jpg?raw=true",
+                    "guestion": "БАЭ борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B1%D0%B0%D1%8D.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "400-жылдарда курулуп баштаган шаар",
+                            "answer": "Каир",
                             "correct": false
                         },
                         {
-                            "answer": "Рим империясы биздин заманга чейинки 27-жылдан бери жашап келе жаткан байыркы мамлекет",
+                            "answer": "Вашингтон",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Абу-Даби",
                             "correct": true
                         },
                         {
-                            "answer": "Сактардын мамлекети",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Француздардын колониясы болгон",
+                            "answer": "Токио",
                             "correct": false
                         }
                     ]
                 },
                 {
                     "id": 2,
-                    "guestion": "Октавиан деген ким болгон?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/%D0%BE%D0%BA%D1%82%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD.jpg?raw=true",
+                    "guestion": "Эфиопия борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%8D%D1%84%D0%B8%D0%BE%D0%BF%D0%B8%D1%8F.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "Римдин кулашын алдын алган согушкер баатыр",
+                            "answer": "Монтевидео",
                             "correct": false
                         },
                         {
-                            "answer": "Август титулуна ээ болгон биринчи Рим императору",
+                            "answer": "Велингтон",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Андорра-ла-Велья",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Аддис-Абеба",
                             "correct": true
-                        },
-                        {
-                            "answer": "Варварлар жол баштоочусу болгон",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Римдин мыйзамын толук жазган адам",
-                            "correct": false
                         }
                     ]
                 },
                 {
                     "id": 3,
-                    "guestion": "Рим империясы камтыган аймак",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/%D1%80%D0%B8%D0%BC_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F%D1%81%D1%8B%D0%BD%D1%8B%D0%BD_%D0%B0%D1%84%D0%BC%D0%B0%D0%B3%D1%8B.jpg?raw=true",
+                    "guestion": "Гана борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B3%D0%B0%D0%BD%D0%B0.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "Африка",
+                            "answer": "Канберра",
                             "correct": false
                         },
                         {
-                            "answer": "Чыгыш Азия жана Батыш Европа аймагы",
+                            "answer": "Баку",
                             "correct": false
                         },
                         {
-                            "answer": "Азия, Түндүк Америка, Түштүк Америка",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Европа, Түндүк Африка, Жакынкы чыгыштын бир бөлүгү",
+                            "answer": "Аккра",
                             "correct": true
+                        },
+                        {
+                            "answer": "Банги",
+                            "correct": false
                         }
                     ]
                 },
                 {
                     "id": 4,
-                    "guestion": "Рим империясы кандай мурастары менен белгилүү болгон?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/19781236.jpg?raw=true",
+                    "guestion": "Алжир борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B0%D0%BB%D0%B6%D0%B8%D1%80.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "Ат чабуу, олимпиада оюндарын уюштуруу",
+                            "answer": "Бейрут",
                             "correct": false
                         },
                         {
-                            "answer": "Башка басып алууларды болтурбоо",
+                            "answer": "Виктория",
                             "correct": false
                         },
                         {
-                            "answer": "Мыйзамдар, инфраструктуралар, инженердик жетишкендиктер жана маданий",
+                            "answer": "Алжир",
                             "correct": true
                         },
                         {
-                            "answer": "Боек, кийим жасоо",
+                            "answer": "Берн",
                             "correct": false
                         }
                     ]
                 },
                 {
                     "id": 5,
-                    "guestion": "Рим империясы башка аймактарды ийгиликтүү басып алуусуна эмне түрткү болгон?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/pimImperiasy5.jpg?raw=true",
+                    "guestion": "Иордания борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B8%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "Кулдарды багып согушка салган",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Башка императорлор Римге кошулгусу келген",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Согушка жалаң дыйкандарын салып турган",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Алардын аскерлери эң тартиптүү жана күчтүү армиясы болгон",
+                            "answer": "Амман",
                             "correct": true
+                        },
+                        {
+                            "answer": "Дакар",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Ереван",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Иерусалим",
+                            "correct": false
                         }
                     ]
                 },
                 {
                     "id": 6,
-                    "guestion": "Рим империясынын ыдырашына кандай көйгөйлөр түрткү болгон?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/pimImperiasy6.jpg?raw=true",
+                    "guestion": "Нидерландтар борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%BD%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "'Ички чыр-чатактар, саясий интригалар, экономикалык кыйынчылыктар жана варварлар урууларынын чабуулдары",
+                            "answer": "'Эр-Рияд",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Вадуц",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Богота",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Амстердам",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Андорра борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B0%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Мадисон",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Де-Мойн",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Андорра-ла-Велья",
                             "correct": true
                         },
                         {
-                            "answer": "Римдиктер жерлерин таштап кеткен",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Буудай айдоолору күйүп элдин ачка калуусу себеп болгон",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Алардын армиясы өздөрүнүн элине кол салган",
+                            "answer": "Бойс",
                             "correct": false
                         }
                     ]
                 },
                 {
                     "id": 7,
-                    "guestion": "Цицерон, Вирджил, Овид жана Тацит булар ким болгон?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/rim/pimImperiasy7.jpg?raw=true",
+                    "guestion": "Турция борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg?raw=true",
                     "options": [
                         {
-                            "answer": "Согуш стратегияларын түзгөн",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Рим жазуучулары, тарых, философия,поезия жана риторикаларды жаратышкан",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Кулдардын насаатчылары болгон",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Жогорку саясий башчыларынын каршылаштары болгон",
+                            "answer": "Анкаpа",
                             "correct": true
+                        },
+                        {
+                            "answer": "Бамако",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Вадуц",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Каир",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Мадагаскар борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%BC%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Бейрут",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Афины",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Багдад",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Антананариву",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Самоа борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%81%D0%B0%D0%BC%D0%BE%D0%B0.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Бастер",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Апиа",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Ашхабад",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Жуно",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Эритрея борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%8D%D1%80%D0%B8%D1%82%D1%80%D0%B5%D1%8F.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Асмэра",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Бисау",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тирана",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Фунафути",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Казакстан борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D1%81%D1%82%D0%B0%D0%BD.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Астана",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Могадишо",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Монтевидео",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Нассау",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Парагвай борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%BF%D0%B0%D1%80%D0%B0%D0%B3%D0%B2%D0%B0%D0%B9.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Габороне",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Асунсьон",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Банжул",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Варшава",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Греция борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B3%D1%80%D0%B5%D1%86%D0%B8%D1%8F.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Афины",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Уагадугу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Хельсинки",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Ямусукро",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Туркменистан борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%82%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D0%B8%D1%81%D1%82%D0%B0%D0%BD.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Сан-Томе",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Рейкьявик",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Ашхабад",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Пхеньян",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Ирак борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B8%D1%80%D0%B0%D0%BA.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Багдад",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Бейрут",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Гавана",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Дакар",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Азербайджан борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B0%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B6%D0%B0%D0%BD.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Ямусукро",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Хельсинки",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Сейлем",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Баку",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Мали борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%BC%D0%B0%D0%BB%D0%B8.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Вила",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Бамако",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Дакка",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Дили",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Борбордук Африка Республикасынын борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B1%D0%B0%D1%80.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Вила",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Бамако",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Дакка",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Банги",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Таиланд борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%82%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Батон-Руж",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Бангкок",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Бриджтаун",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Вадуц",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Бруней борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B1%D1%80%D1%83%D0%BD%D0%B5%D0%B9.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Бандар-Сери-Бегаван",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Белград",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Виктория",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Бишкек",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Гамбия борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B3%D0%B0%D0%BC%D0%B1%D0%B8%D1%8F.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Варшава",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Берн",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Белиз",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Банжул",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Сент-Кристофер жана Невис борбору",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%81%D0%B5%D0%BD%D1%82%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%9D%D0%B5%D0%B2%D0%B8%D1%81.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Белград",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Бастер",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Бельмопан",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Богота",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Ливан борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%BB%D0%B8%D0%B2%D0%B0%D0%BD.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Гватемала",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Берн",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Бейрут",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Веллингтон",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Сербия борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%81%D0%B5%D1%80%D0%B1%D0%B8%D1%8F.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Бужумбура",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Белград",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Загреб",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Канберра",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "guestion": "Белиз борбор шаары",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B1%D0%B5%D0%BB%D0%B8%D0%B7.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Сингапур",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Тайпей",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Бельмопан",
+                            "correct": true
+                        },
+                        {
+                            "answer": "София",
+                            "correct": false
                         }
                     ]
                 }
