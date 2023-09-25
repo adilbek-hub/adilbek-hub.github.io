@@ -3421,6 +3421,353 @@
                         }
                     ]
                 }
+            ],
+            "nerv": [
+                {
+                    "id": 1,
+                    "guestion": "Нерв системасынын кайсы системасы булчуңдарды координациялоо, эс тутум жана сезим сыяктуу негизги дене функцияларын башкарат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka1.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Симпатикалык система",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Парасимпатикалык система",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Борбордук нерв системасы",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Перифериялык нерв системасы",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "guestion": "Жүлүн каналынын ичинде нерв системасынын кайсы бөлүгү өтөт?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka2.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Симпатикалык система",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Парасимпатикалык система",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Борбордук нерв системасы",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Перифериялык нерв системасы",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "guestion": "Организмдин жүрөктүн согушу, дем алуу сыяктуу автоматтык функциялары нерв системасынын кайсы системасы үчүн жооп берет?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka3.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Симпатикалык система",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Парасимпатикалык система",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Борбордук нерв системасы",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Перифериялык нерв системасы",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "guestion": "Нерв системасынын кайсы системасы аң-сезимдүү кыймылдарга жана рецепторлордон борбордук нерв системасына маалыматтын берилишине жооп берет?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka4.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Симпатикалык система",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Парасимпатикалык система",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Соматикалык нерв системасы",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Автономдук нерв системасы",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Борбордук нерв системасы эмнени камтыйт?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka5.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Баш мээ",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Жүлүн",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Мээден чыккан нервдер",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Жүлүндөн чыккан нервдер",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Нерв системасы кандай функцияларды аткарат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka6.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Нерв импульстарынын берилиши",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Маалыматтарды иштетүү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Органдарды жана системаларды жөнгө салуу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Жогоруда айтылгандардын баары",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Жүрөктүн согушун, дем алууну жана тамак сиңирүүнү жөнгө салууга нерв системасынын кайсы системасы жооп берет?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka7.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Симпатикалык система",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Парасимпатикалык система",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Борбордук нерв системасы",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Перифериялык нерв системасы",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Нерв системасынын кайсы системасы стресске жана коркунучка жооп берет?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka8.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Симпатикалык система",
+                            "correct": true
+                        },
+                        {
+                            "answer": "парасимпатикалык система",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Борбордук нерв системасы",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Перифериялык нерв системасы",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Организмдин калыбына келтирүүчү жана эс алуу функциялары үчүн нерв системасынын кайсы системасы жооп берет?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka9.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Симпатикалык система",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Парасимпатикалык система",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Борбордук нерв системасы",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Перифериялык нерв системасы",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Нерв системасынын кайсы бөлүгү мээ менен дененин калган бөлүгүнүн ортосунда сигналдарды өткөрүүгө жооптуу?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka10.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Баш мээ",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Жүлүн",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Симпатикалык система",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Парасимпатикалык система",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Перифериялык нерв системасы кандай функцияларды аткарат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka11.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Кыймылды координациялоо",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Маалыматтарды иштетүү",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Органдарды жана системаларды жөнгө салуу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Мээ менен дененин калган бөлүгүнүн ортосундагы сигнал",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Вегетатив нерв системасын кайсы системалар түзөт?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka12.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Симпатикалык жана парасимпатикалык",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Борбордук жана перифериялык",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Симпатикалык жана соматикалык",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Парасимпатикалык жана соматикалык",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Соматикалык нерв системасы кандай функцияларды аткарат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka13.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Кыймылды координациялоо",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Органдарды жана системаларды жөнгө салуу",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Мээ менен дененин калган бөлүгүнүн ортосундагы сигнал",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Стресске жана коркунучка жооп берүү",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Вегетатив нерв системасы кандай функцияларды аткарат?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka14.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Кыймылды координациялоо",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Органдарды жана системаларды жөнгө салуу",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Мээ менен дененин калган бөлүгүнүн ортосундагы сигнал",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Стресске жана коркунучка жооп берүү",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "guestion": "Денедеги балансты сактоо үчүн кандай системалар өз ара аракеттенишет?",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka14.jpg?raw=true",
+                    "options": [
+                        {
+                            "answer": "Симпатикалык жана парасимпатикалык",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Борбордук жана перифериялык",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Симпатикалык жана соматикалык",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Парасимпатикалык жана соматикалык",
+                            "correct": false
+                        }
+                    ]
+                }
             ]
         }
     ]
