@@ -2937,7 +2937,7 @@
                 {
                     "id": 5,
                     "guestion": "Сүт эмүүчүлөр менен адамдарда курчап турган дүйнөнү үйрөнүү, жаттоо жана кабылдоо жөндөмүн эмне камсыз кылат?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/computer_structures/video-karta.jpg?raw=true",
+                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam5.jpg?raw=true",
                     "options": [
                         {
                             "answer": "Өнүккөн нерв системасы",
@@ -3000,100 +3000,6 @@
                         {
                             "answer": "Канаттардын болушу",
                             "correct": false
-                        }
-                    ]
-                }
-            ],
-            "computerdic_tarmaktar": [
-                {
-                    "id": 1,
-                    "guestion": "Компьютердик тармактын топологиясы бул?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam1.jpg?raw=true",
-                    "options": [
-                        {
-                            "answer": "Протокол дегенди билдирет",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Dart програмдоо тилинин логикасын аныктайт",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Тармактын физикалык жана логикалык түзүлүшүн аныктайт",
-                            "correct": true
-                        },
-                        {
-                            "answer": "Flutter фреймворктогу виджеттин бири",
-                            "correct": false
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "guestion": "Кээ бир белгилүү протоколдор",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam2.jpg?raw=true",
-                    "options": [
-                        {
-                            "answer": "АТС станциясы",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Сайттын административдик жоболору",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Протокол бул кагаз иши",
-                            "correct": false
-                        },
-                        {
-                            "answer": "TCP/IP,Eithernet,Wi-Fi,HTTP,FTP",
-                            "correct": true
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "guestion": "Тармактык жабдык кандай кызмат аткарат",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam3.jpg?raw=true",
-                    "options": [
-                        {
-                            "answer": "Компьютерге вирус киргизүүчү код",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Тармактагы түзмөктөр ортосунда байланышты жана маалыматтарды берүүнү камсыз кылат",
-                            "correct": true
-                        },
-                        {
-                            "answer": "Дискке маалымат сактоочу программа",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Эс тутумга террабайттык эс тутум кошуучу программа",
-                            "correct": false
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "guestion": "192.168.0.1 же 192.168.1.1 эмне болушу мүмкүн?",
-                    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam5.jpg?raw=true",
-                    "options": [
-                        {
-                            "answer": "Програмдоо тилинин логикасы",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Клавиатура коюуучу жай",
-                            "correct": false
-                        },
-                        {
-                            "answer": "Компьютердик кейс",
-                            "correct": false
-                        },
-                        {
-                            "answer": "IP дарек түрү",
-                            "correct": true
                         }
                     ]
                 }
