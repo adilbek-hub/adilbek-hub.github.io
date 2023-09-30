@@ -564,31 +564,6 @@
                         ]
                     },
                     {
-                        "id": 24,
-                        "name": "Тарых",
-                        "title": "Немис королдугу",
-                        "guestion": "Биринчи Ыйык Рим императору жана 10-кылымда герман падышалыктарынын биригишине алып келген ким?",
-                        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B38.jpg?raw=true",
-                        "options": [
-                            {
-                                "answer": "Улуу Карл",
-                                "correct": false
-                            },
-                            {
-                                "answer": "Оттон I",
-                                "correct": true
-                            },
-                            {
-                                "answer": "Фридрих I Барбаросса",
-                                "correct": false
-                            },
-                            {
-                                "answer": "Луис Бавария",
-                                "correct": false
-                            }
-                        ]
-                    },
-                    {
                         "id": 25,
                         "name": "Тарых",
                         "title": "Немис королдугу",
