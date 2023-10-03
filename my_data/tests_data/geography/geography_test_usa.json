@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Америкада канча штат бар?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/state.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "50",
+                "correct": true
+            },
+            {
+                "answer": "51",
+                "correct": false
+            },
+            {
+                "answer": "49",
+                "correct": false
+            },
+            {
+                "answer": "63",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Американын акча бирдиги?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/money_simbols.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Евро",
+                "correct": false
+            },
+            {
+                "answer": "АКШ доллары",
+                "correct": true
+            },
+            {
+                "answer": "Юань",
+                "correct": false
+            },
+            {
+                "answer": "Фунт",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Американын акча бирдиги?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/money_simbols.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Евро",
+                "correct": false
+            },
+            {
+                "answer": "АКШ доллары",
+                "correct": true
+            },
+            {
+                "answer": "Юань",
+                "correct": false
+            },
+            {
+                "answer": "Фунт",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Аляска Американын кайсыл статусунда?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/alaska_state.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Штат",
+                "correct": true
+            },
+            {
+                "answer": "Федерация округу",
+                "correct": false
+            },
+            {
+                "answer": "Республика",
+                "correct": false
+            },
+            {
+                "answer": "Облус",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Вермонт штатынын Административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/viermont.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Монпелье",
+                "correct": true
+            },
+            {
+                "answer": "Мадисон",
+                "correct": false
+            },
+            {
+                "answer": "Бойс",
+                "correct": false
+            },
+            {
+                "answer": "Монтгомери",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Айдахо штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/boyse.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "'Де-Мойн",
+                "correct": false
+            },
+            {
+                "answer": "Олимпия",
+                "correct": false
+            },
+            {
+                "answer": "Жуно",
+                "correct": false
+            },
+            {
+                "answer": "Бойсе",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Айдахо штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/boyse.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "'Де-Мойн",
+                "correct": false
+            },
+            {
+                "answer": "Олимпия",
+                "correct": false
+            },
+            {
+                "answer": "Жуно",
+                "correct": false
+            },
+            {
+                "answer": "Бойсе",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Айдахо штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/boyse.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "'Де-Мойн",
+                "correct": false
+            },
+            {
+                "answer": "Олимпия",
+                "correct": false
+            },
+            {
+                "answer": "Жуно",
+                "correct": false
+            },
+            {
+                "answer": "Бойсе",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Айова штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/de_moyn.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Мадисон",
+                "correct": false
+            },
+            {
+                "answer": "Де-Мойн",
+                "correct": true
+            },
+            {
+                "answer": "Атланта",
+                "correct": false
+            },
+            {
+                "answer": "Бойс",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Алабама штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/alabama.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Сент-Пол",
+                "correct": false
+            },
+            {
+                "answer": "Де-Мойн",
+                "correct": false
+            },
+            {
+                "answer": "Монтгомери",
+                "correct": true
+            },
+            {
+                "answer": "Бойс",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Аляска штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/eefb8a268f18f7ae87899d4ad03f1fd1.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Сент-Пол",
+                "correct": false
+            },
+            {
+                "answer": "Де-Мойн",
+                "correct": false
+            },
+            {
+                "answer": "Монтгомери",
+                "correct": false
+            },
+            {
+                "answer": "Жуно",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Аризона штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/arizona.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Сент-Пол",
+                "correct": false
+            },
+            {
+                "answer": "Финикс",
+                "correct": true
+            },
+            {
+                "answer": "Монтгомери",
+                "correct": false
+            },
+            {
+                "answer": "Жуно",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Арканзас штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/Doubletree-By-Hilton-Little-Rock-Hotel-Exterior.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Сент-Пол",
+                "correct": false
+            },
+            {
+                "answer": "Финикс",
+                "correct": false
+            },
+            {
+                "answer": "Литл-Рок",
+                "correct": true
+            },
+            {
+                "answer": "Жуно",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Батыш Виргиния штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/Top-Attractions-to-Experience-in-Charleston-SC-2.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Чарлстон",
+                "correct": true
+            },
+            {
+                "answer": "Финикс",
+                "correct": false
+            },
+            {
+                "answer": "Литл-Рок",
+                "correct": false
+            },
+            {
+                "answer": "Жуно",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Вайоминг штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/state.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Гонолулу",
+                "correct": false
+            },
+            {
+                "answer": "Ричмонд",
+                "correct": false
+            },
+            {
+                "answer": "Монтпильер",
+                "correct": false
+            },
+            {
+                "answer": "Шайенн",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Вашингтон штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/1200px-White_House_Washington.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Франкфорт",
+                "correct": false
+            },
+            {
+                "answer": "Денвер",
+                "correct": false
+            },
+            {
+                "answer": "Жексон",
+                "correct": false
+            },
+            {
+                "answer": "Олимпия",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Вермонт штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/MainStMontpelier.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Олимпия",
+                "correct": false
+            },
+            {
+                "answer": "Монтпильер",
+                "correct": true
+            },
+            {
+                "answer": "Сакраменто",
+                "correct": false
+            },
+            {
+                "answer": "Денвер",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Виржиния штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/richmond.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Индианаполис",
+                "correct": false
+            },
+            {
+                "answer": "Спрингфилт",
+                "correct": false
+            },
+            {
+                "answer": "Атланта",
+                "correct": false
+            },
+            {
+                "answer": "Ричмонд",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Висконсин штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/madison.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Мадисон",
+                "correct": true
+            },
+            {
+                "answer": "Харрисберг",
+                "correct": false
+            },
+            {
+                "answer": "Сейлем",
+                "correct": false
+            },
+            {
+                "answer": "Роли",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Гавайи штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/gonolulu.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Батон-Руж",
+                "correct": false
+            },
+            {
+                "answer": "Хартфорд",
+                "correct": false
+            },
+            {
+                "answer": "Гонолулу",
+                "correct": true
+            },
+            {
+                "answer": "Лансинг",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Жоржия штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/190_Atlanta,_GA.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Спрингфилт",
+                "correct": false
+            },
+            {
+                "answer": "Топика",
+                "correct": false
+            },
+            {
+                "answer": "Атланта",
+                "correct": true
+            },
+            {
+                "answer": "Франкфорт",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Делавер штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/03.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Батон-Руж",
+                "correct": false
+            },
+            {
+                "answer": "Довер",
+                "correct": false
+            },
+            {
+                "answer": "Индианаполис",
+                "correct": true
+            },
+            {
+                "answer": "Хелина",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Иллинойс штатынын административдик борбору?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/istoriya-chikago-cover.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Спрингфилд",
+                "correct": false
+            },
+            {
+                "answer": "Огаста",
+                "correct": false
+            },
+            {
+                "answer": "Жефферсон-Сити",
+                "correct": true
+            },
+            {
+                "answer": "Лансинг",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "АКШнын Конституциясынын кабыл алынган жылы?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/constitution.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "1800-ж. 5-июнь",
+                "correct": false
+            },
+            {
+                "answer": "1732-ж. 10-март",
+                "correct": false
+            },
+            {
+                "answer": "1787-ж. 17-сентябрь",
+                "correct": true
+            },
+            {
+                "answer": "1930-ж. 30-декабрь",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Конгресс деген эмне?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/congress.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "МЧБ жогорку органы",
+                "correct": true
+            },
+            {
+                "answer": "Штаттын Администрация",
+                "correct": false
+            },
+            {
+                "answer": "Эркиндик статуясын кароочу орган",
+                "correct": false
+            },
+            {
+                "answer": "Музей башчысы",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Эң чоң штат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/state.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Жоржия",
+                "correct": false
+            },
+            {
+                "answer": "Алабама",
+                "correct": false
+            },
+            {
+                "answer": "Аляска",
+                "correct": true
+            },
+            {
+                "answer": "Колумбия",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Мак-Кинли чокусу кайсыл штаттын кырка тоолоруда?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/mack_cinli.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "Аляска",
+                "correct": true
+            },
+            {
+                "answer": "Юта",
+                "correct": false
+            },
+            {
+                "answer": "Теннеси",
+                "correct": false
+            },
+            {
+                "answer": "Техас",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "name": "География",
+        "title": "АКШ",
+        "guestion": "Ажал өрөөнүнүн деңиз деңгээлинен төмөн жайгашкан жери",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/usa/842_88963.jpeg?raw=true",
+        "options": [
+            {
+                "answer": "93 метр",
+                "correct": false
+            },
+            {
+                "answer": "117 метр",
+                "correct": false
+            },
+            {
+                "answer": "86 метр",
+                "correct": true
+            },
+            {
+                "answer": "15 метр",
+                "correct": false
+            }
+        ]
+    }
+]
