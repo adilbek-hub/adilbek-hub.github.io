@@ -1,0 +1,302 @@
+[
+    {
+        "id": 88,
+        "name": "География",
+        "title": "Азия",
+        "guestion": "Азия континентинин жалпы аянты?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/asia_continent.jpg?raw=true",
+        "options": [
+            {
+                "answer": "43,4 миллион чарчы метрден ашык",
+                "correct": true
+            },
+            {
+                "answer": "40,7 миллион чарчы метр",
+                "correct": false
+            },
+            {
+                "answer": "Азия континент эмес",
+                "correct": false
+            },
+            {
+                "answer": "70 миллион чарчы метрден ашык",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "name": "География",
+        "title": "Азия",
+        "guestion": "Азия континентинин жалпы аянты?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/asia_continent.jpg?raw=true",
+        "options": [
+            {
+                "answer": "43,4 миллион чарчы метрден ашык",
+                "correct": true
+            },
+            {
+                "answer": "40,7 миллион чарчы метр",
+                "correct": false
+            },
+            {
+                "answer": "Азия континент эмес",
+                "correct": false
+            },
+            {
+                "answer": "70 миллион чарчы метрден ашык",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "name": "География",
+        "title": "Азия",
+        "guestion": "Батышта Азиянын чек арасы кайсыл тоолор менен өтөт?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%83%D1%80%D0%B0%D0%BB_%D1%82%D0%BE%D0%BE%D0%BB%D0%BE%D1%80%D1%83.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Тоо жок түздүк менен",
+                "correct": false
+            },
+            {
+                "answer": "Тянь-Шань кырка тоолору менен",
+                "correct": false
+            },
+            {
+                "answer": "Урал тоолору менен",
+                "correct": true
+            },
+            {
+                "answer": "Эверест тоосу менен",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "name": "География",
+        "title": "Азия",
+        "guestion": "Азиянын чыгышын курчап турган океан?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Түндүк муз океан",
+                "correct": false
+            },
+            {
+                "answer": "Инди океаны",
+                "correct": true
+            },
+            {
+                "answer": "Тынч океан",
+                "correct": false
+            },
+            {
+                "answer": "Атлантика океаны",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "name": "География",
+        "title": "Азия",
+        "guestion": "Батыш жана Чыгыш Сибирдин климаты?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D0%B1%D0%B0%D1%82%D1%8B%D1%88_%D1%81%D0%B8%D0%B1%D0%B8%D1%80.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Жарым чөлдүү жана чөлдүү",
+                "correct": true
+            },
+            {
+                "answer": "Континеттик",
+                "correct": false
+            },
+            {
+                "answer": "Муссондук мезгил",
+                "correct": false
+            },
+            {
+                "answer": "Эквадордук",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "География",
+        "title": "Азия",
+        "guestion": "Янцзы дарыясынын узундугу",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%8F%D0%BD%D1%86%D1%8B_%D0%B4%D0%B0%D1%80%D1%8B%D1%8F%D1%81%D1%8B.jpg?raw=true",
+        "options": [
+            {
+                "answer": "4600 км",
+                "correct": false
+            },
+            {
+                "answer": "250 км",
+                "correct": false
+            },
+            {
+                "answer": "7578 км",
+                "correct": false
+            },
+            {
+                "answer": "6300 км",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "name": "География",
+        "title": "Азия",
+        "guestion": "Азиядагы эң чоң беш көлдүн катарына Ысык-Көл киреби?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%8B%D1%81%D1%8B%D0%BA_%D0%BA%D3%A9%D0%BB.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Ооба кирет",
+                "correct": true
+            },
+            {
+                "answer": "Жоок кирбейт",
+                "correct": false
+            },
+            {
+                "answer": "Ысык-Көл азыркы учурда кирбей калган",
+                "correct": false
+            },
+            {
+                "answer": "Балхаш да Ысык-Көл да кирбейт",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "name": "География",
+        "title": "Азия",
+        "guestion": "Азиядагы эң чоң тоо?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%8D%D0%B2%D0%B5%D1%80%D0%B5%D1%81%D1%82_%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D0%B0.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Гималай",
+                "correct": false
+            },
+            {
+                "answer": "Алтай",
+                "correct": false
+            },
+            {
+                "answer": "Эверест",
+                "correct": true
+            },
+            {
+                "answer": "Саян",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "name": "География",
+        "title": "Азия",
+        "guestion": "Азиянын деерлик калкы кайсыл расаны түзөт?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%80%D0%B0%D1%81%D0%B0%D0%BB%D0%B0%D1%80.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Австралоид",
+                "correct": false
+            },
+            {
+                "answer": "Негроид",
+                "correct": false
+            },
+            {
+                "answer": "Европеид",
+                "correct": false
+            },
+            {
+                "answer": "Монголоид",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "name": "География",
+        "title": "Азия",
+        "guestion": "Азиянын эң чоң өлкөсү?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/asia_continent.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Сауд-Арабиясы",
+                "correct": false
+            },
+            {
+                "answer": "Кытай",
+                "correct": true
+            },
+            {
+                "answer": "Казакстан",
+                "correct": false
+            },
+            {
+                "answer": "Индия",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "name": "География",
+        "title": "Азия",
+        "guestion": "Калкынын саны боюнча эң көп калктуу өлкө?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%8D%D0%BB%D0%B4%D0%B5%D1%80.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Индия",
+                "correct": true
+            },
+            {
+                "answer": "Жапония",
+                "correct": false
+            },
+            {
+                "answer": "Кытай",
+                "correct": false
+            },
+            {
+                "answer": "Индонезия",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "name": "География",
+        "title": "Азия",
+        "guestion": "Эверест тоосунун бийиктиги?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/asia_continenti/%D1%8D%D0%B2%D0%B5%D1%80%D0%B5%D1%81%D1%82.jpg?raw=true",
+        "options": [
+            {
+                "answer": "8848 м",
+                "correct": true
+            },
+            {
+                "answer": "7688 м",
+                "correct": false
+            },
+            {
+                "answer": "9325 м",
+                "correct": false
+            },
+            {
+                "answer": "8849 м",
+                "correct": false
+            }
+        ]
+    }
+]
