@@ -1,223 +1,252 @@
 [
   {
     "id": 1,
-    "question": "Paris",
-    "answer": [
+    "name": "География",
+    "title": "Европа өлкөлөрүнүн борбор шаарлары",
+    "guestion": "Parice",
+    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/Parice.jpeg?raw=true",
+    "options": [
       {
-        "text": "Germany",
-        "isTrue": false
+        "answer": "Germany",
+        "correct": false
       },
       {
-        "text": "France",
-        "isTrue": true
+        "answer": "France",
+        "correct": true
       },
       {
-        "text": "Italy",
-        "isTrue": false
+        "answer": "Italy",
+        "correct": false
       },
       {
-        "text": "Austria",
-        "isTrue": false
+        "answer": "Austria",
+        "correct": false
       }
-    ],
-    "image": "Parice"
+    ]
   },
   {
-    "text": "Berlin",
-    "jooptor": [
+    "id": 2,
+    "name": "География",
+    "title": "Европа өлкөлөрүнүн борбор шаарлары",
+    "guestion": "Berlin",
+    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/Berlin.jpeg?raw=true",
+    "options": [
       {
-        "text": "Germany",
-        "isTrue": true
+        "answer": "Germany",
+        "correct": true
       },
       {
-        "text": "France",
-        "isTrue": false
+        "answer": "France",
+        "correct": false
       },
       {
-        "text": "Italy",
-        "isTrue": false
+        "answer": "Italy",
+        "correct": false
       },
       {
-        "text": "Austria",
-        "isTrue": false
+        "answer": "Austria",
+        "correct": false
       }
-    ],
-    "image": "Berlin"
+    ]
   },
   {
-    "text": "Bern",
-    "jooptor": [
+    "id": 3,
+    "name": "География",
+    "title": "Европа өлкөлөрүнүн борбор шаарлары",
+    "guestion": "Bern",
+    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/BernSwitzerland.jpeg?raw=true",
+    "options": [
       {
-        "text": "Germany",
-        "isTrue": false
+        "answer": "Germany",
+        "correct": false
       },
       {
-        "text": "France",
-        "isTrue": false
+        "answer": "France",
+        "correct": false
       },
       {
-        "text": "Switzerland",
-        "isTrue": true
+        "answer": "Switzerland",
+        "correct": true
       },
       {
-        "text": "Austria",
-        "isTrue": false
+        "answer": "Austria",
+        "correct": false
       }
-    ],
-    "image": "BernSwitzerland"
+    ]
   },
   {
-    "text": "Brusel",
-    "jooptor": [
+    "id": 4,
+    "name": "География",
+    "title": "Европа өлкөлөрүнүн борбор шаарлары",
+    "guestion": "Brusel",
+    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/BruselBelgium.jpeg?raw=true",
+    "options": [
       {
-        "text": "Germany",
-        "isTrue": false
+        "answer": "Germany",
+        "correct": false
       },
       {
-        "text": "France",
-        "isTrue": false
+        "answer": "France",
+        "correct": false
       },
       {
-        "text": "Italy",
-        "isTrue": false
+        "answer": "Italy",
+        "correct": false
       },
       {
-        "text": "Belgium",
-        "isTrue": true
+        "answer": "Belgium",
+        "correct": true
       }
-    ],
-    "image": "BruselBelgium"
+    ]
   },
   {
-    "text": "Copenhagen",
-    "jooptor": [
+    "id": 5,
+    "name": "География",
+    "title": "Европа өлкөлөрүнүн борбор шаарлары",
+    "guestion": "Копенгаген",
+    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/CopenhagenDenmark.jpeg?raw=true",
+    "options": [
       {
-        "text": "Denmark",
-        "isTrue": true
+        "answer": "Дания",
+        "correct": true
       },
       {
-        "text": "France",
-        "isTrue": false
+        "answer": "Франция",
+        "correct": false
       },
       {
-        "text": "Italy",
-        "isTrue": false
+        "answer": "Италия",
+        "correct": false
       },
       {
-        "text": "Austria",
-        "isTrue": false
+        "answer": "Австралия",
+        "correct": false
       }
-    ],
-    "image": "CopenhagenDenmark"
+    ]
   },
   {
-    "text": "Helsinki",
-    "jooptor": [
+    "id": 6,
+    "name": "География",
+    "title": "Европа өлкөлөрүнүн борбор шаарлары",
+    "guestion": "Хелсинки",
+    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/HelsinkiFinnin.jpeg?raw=true",
+    "options": [
       {
-        "text": "Germany",
-        "isTrue": false
+        "answer": "Германия",
+        "correct": false
       },
       {
-        "text": "Finland",
-        "isTrue": true
+        "answer": "Финляндия",
+        "correct": false
       },
       {
-        "text": "Spain",
-        "isTrue": false
+        "answer": "Испания",
+        "correct": false
       },
       {
-        "text": "Sweden",
-        "isTrue": false
+        "answer": "Швеция",
+        "correct": true
       }
-    ],
-    "image": "HelsinkiFinnin"
+    ]
   },
   {
-    "text": "Lisbon",
-    "jooptor": [
+    "id": 7,
+    "name": "География",
+    "title": "Европа өлкөлөрүнүн борбор шаарлары",
+    "guestion": "Лисаббон",
+    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/LisbonPortugal.jpeg?raw=true",
+    "options": [
       {
-        "text": "Germany",
-        "isTrue": false
+        "answer": "Германия",
+        "correct": false
       },
       {
-        "text": "France",
-        "isTrue": false
+        "answer": "Улуу-Британия",
+        "correct": false
       },
       {
-        "text": "Portugal",
-        "isTrue": true
+        "answer": "Португалия",
+        "correct": true
       },
       {
-        "text": "Austria",
-        "isTrue": false
+        "answer": "Италия",
+        "correct": false
       }
-    ],
-    "image": "LisbonPortugal"
+    ]
   },
   {
-    "text": "Madrid",
-    "jooptor": [
+    "id": 8,
+    "name": "География",
+    "title": "Европа өлкөлөрүнүн борбор шаарлары",
+    "guestion": "Мадрид",
+    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/Madrid.jpeg?raw=true",
+    "options": [
       {
-        "text": "Greece",
-        "isTrue": false
+        "answer": "Греция",
+        "correct": false
       },
       {
-        "text": "Denmark",
-        "isTrue": false
+        "answer": "Дания",
+        "correct": false
       },
       {
-        "text": "Portugal",
-        "isTrue": false
+        "answer": "Партугалия",
+        "correct": false
       },
       {
-        "text": "Spain",
-        "isTrue": true
+        "answer": "Испания",
+        "correct": true
       }
-    ],
-    "image": "Madrid"
+    ]
   },
   {
-    "text": "Stockholm",
-    "jooptor": [
+    "id": 9,
+    "name": "География",
+    "title": "Европа өлкөлөрүнүн борбор шаарлары",
+    "guestion": "Стокгольм",
+    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/StockholmSweden.jpeg?raw=true",
+    "options": [
       {
-        "text": "Sweden",
-        "isTrue": true
+        "answer": "Швеция",
+        "correct": false
       },
       {
-        "text": "France",
-        "isTrue": false
+        "answer": "Франция",
+        "correct": true
       },
       {
-        "text": "Italy",
-        "isTrue": false
+        "answer": "Италия",
+        "correct": false
       },
       {
-        "text": "Austria",
-        "isTrue": false
+        "answer": "Австрия",
+        "correct": false
       }
-    ],
-    "image": "StockholmSweden"
+    ]
   },
   {
-    "text": "Viena",
-    "jooptor": [
+    "id": 10,
+    "name": "География",
+    "title": "Европа өлкөлөрүнүн борбор шаарлары",
+    "guestion": "Вена",
+    "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/VienaAustria.jpeg?raw=true",
+    "options": [
       {
-        "text": "Ukrain",
-        "isTrue": false
+        "answer": "Украина",
+        "correct": false
       },
       {
-        "text": "Bulgaria",
-        "isTrue": false
+        "answer": "Болгария",
+        "correct": false
       },
       {
-        "text": "Austria",
-        "isTrue": true
+        "answer": "Австрия",
+        "correct": true
       },
       {
-        "text": "Georgia",
-        "isTrue": false
+        "answer": "Швейцария",
+        "correct": false
       }
-    ],
-    "image": "VienaAustria"
+    ]
   }
 ]
