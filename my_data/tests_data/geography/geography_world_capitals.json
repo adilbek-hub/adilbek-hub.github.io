@@ -1,0 +1,677 @@
+[
+    {
+        "id": 100,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "БАЭ борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B1%D0%B0%D1%8D.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Каир",
+                "correct": false
+            },
+            {
+                "answer": "Вашингтон",
+                "correct": false
+            },
+            {
+                "answer": "Абу-Даби",
+                "correct": true
+            },
+            {
+                "answer": "Токио",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Эфиопия борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%8D%D1%84%D0%B8%D0%BE%D0%BF%D0%B8%D1%8F.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Монтевидео",
+                "correct": false
+            },
+            {
+                "answer": "Велингтон",
+                "correct": false
+            },
+            {
+                "answer": "Андорра-ла-Велья",
+                "correct": false
+            },
+            {
+                "answer": "Аддис-Абеба",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Гана борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B3%D0%B0%D0%BD%D0%B0.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Канберра",
+                "correct": false
+            },
+            {
+                "answer": "Баку",
+                "correct": false
+            },
+            {
+                "answer": "Аккра",
+                "correct": true
+            },
+            {
+                "answer": "Банги",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Алжир борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B0%D0%BB%D0%B6%D0%B8%D1%80.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Бейрут",
+                "correct": false
+            },
+            {
+                "answer": "Виктория",
+                "correct": false
+            },
+            {
+                "answer": "Алжир",
+                "correct": true
+            },
+            {
+                "answer": "Берн",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Иордания борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B8%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Амман",
+                "correct": true
+            },
+            {
+                "answer": "Дакар",
+                "correct": false
+            },
+            {
+                "answer": "Ереван",
+                "correct": false
+            },
+            {
+                "answer": "Иерусалим",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Нидерландтар борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%BD%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4.jpg?raw=true",
+        "options": [
+            {
+                "answer": "'Эр-Рияд",
+                "correct": false
+            },
+            {
+                "answer": "Вадуц",
+                "correct": false
+            },
+            {
+                "answer": "Богота",
+                "correct": false
+            },
+            {
+                "answer": "Амстердам",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Андорра борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B0%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Мадисон",
+                "correct": false
+            },
+            {
+                "answer": "Де-Мойн",
+                "correct": false
+            },
+            {
+                "answer": "Андорра-ла-Велья",
+                "correct": true
+            },
+            {
+                "answer": "Бойс",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Турция борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%82%D1%83%D1%80%D1%86%D0%B8%D1%8F.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Анкаpа",
+                "correct": true
+            },
+            {
+                "answer": "Бамако",
+                "correct": false
+            },
+            {
+                "answer": "Вадуц",
+                "correct": false
+            },
+            {
+                "answer": "Каир",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Мадагаскар борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%BC%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Бейрут",
+                "correct": false
+            },
+            {
+                "answer": "Афины",
+                "correct": false
+            },
+            {
+                "answer": "Багдад",
+                "correct": false
+            },
+            {
+                "answer": "Антананариву",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Самоа борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%81%D0%B0%D0%BC%D0%BE%D0%B0.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Бастер",
+                "correct": false
+            },
+            {
+                "answer": "Апиа",
+                "correct": true
+            },
+            {
+                "answer": "Ашхабад",
+                "correct": false
+            },
+            {
+                "answer": "Жуно",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Эритрея борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%8D%D1%80%D0%B8%D1%82%D1%80%D0%B5%D1%8F.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Асмэра",
+                "correct": true
+            },
+            {
+                "answer": "Бисау",
+                "correct": false
+            },
+            {
+                "answer": "Тирана",
+                "correct": false
+            },
+            {
+                "answer": "Фунафути",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Казакстан борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D1%81%D1%82%D0%B0%D0%BD.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Астана",
+                "correct": true
+            },
+            {
+                "answer": "Могадишо",
+                "correct": false
+            },
+            {
+                "answer": "Монтевидео",
+                "correct": false
+            },
+            {
+                "answer": "Нассау",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Парагвай борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%BF%D0%B0%D1%80%D0%B0%D0%B3%D0%B2%D0%B0%D0%B9.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Габороне",
+                "correct": false
+            },
+            {
+                "answer": "Асунсьон",
+                "correct": true
+            },
+            {
+                "answer": "Банжул",
+                "correct": false
+            },
+            {
+                "answer": "Варшава",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Греция борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B3%D1%80%D0%B5%D1%86%D0%B8%D1%8F.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Афины",
+                "correct": true
+            },
+            {
+                "answer": "Уагадугу",
+                "correct": false
+            },
+            {
+                "answer": "Хельсинки",
+                "correct": false
+            },
+            {
+                "answer": "Ямусукро",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Туркменистан борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%82%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D0%B8%D1%81%D1%82%D0%B0%D0%BD.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Сан-Томе",
+                "correct": false
+            },
+            {
+                "answer": "Рейкьявик",
+                "correct": false
+            },
+            {
+                "answer": "Ашхабад",
+                "correct": true
+            },
+            {
+                "answer": "Пхеньян",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Ирак борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B8%D1%80%D0%B0%D0%BA.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Багдад",
+                "correct": true
+            },
+            {
+                "answer": "Бейрут",
+                "correct": false
+            },
+            {
+                "answer": "Гавана",
+                "correct": false
+            },
+            {
+                "answer": "Дакар",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Азербайджан борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B0%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B6%D0%B0%D0%BD.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Ямусукро",
+                "correct": false
+            },
+            {
+                "answer": "Хельсинки",
+                "correct": false
+            },
+            {
+                "answer": "Сейлем",
+                "correct": false
+            },
+            {
+                "answer": "Баку",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Мали борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%BC%D0%B0%D0%BB%D0%B8.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Вила",
+                "correct": false
+            },
+            {
+                "answer": "Бамако",
+                "correct": true
+            },
+            {
+                "answer": "Дакка",
+                "correct": false
+            },
+            {
+                "answer": "Дили",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Борбордук Африка Республикасынын борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B1%D0%B0%D1%80.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Вила",
+                "correct": false
+            },
+            {
+                "answer": "Бамако",
+                "correct": false
+            },
+            {
+                "answer": "Дакка",
+                "correct": false
+            },
+            {
+                "answer": "Банги",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Таиланд борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%82%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Батон-Руж",
+                "correct": false
+            },
+            {
+                "answer": "Бангкок",
+                "correct": true
+            },
+            {
+                "answer": "Бриджтаун",
+                "correct": false
+            },
+            {
+                "answer": "Вадуц",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Бруней борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B1%D1%80%D1%83%D0%BD%D0%B5%D0%B9.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Бандар-Сери-Бегаван",
+                "correct": true
+            },
+            {
+                "answer": "Белград",
+                "correct": false
+            },
+            {
+                "answer": "Виктория",
+                "correct": false
+            },
+            {
+                "answer": "Бишкек",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Гамбия борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B3%D0%B0%D0%BC%D0%B1%D0%B8%D1%8F.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Варшава",
+                "correct": false
+            },
+            {
+                "answer": "Берн",
+                "correct": false
+            },
+            {
+                "answer": "Белиз",
+                "correct": false
+            },
+            {
+                "answer": "Банжул",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Гамбия борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B3%D0%B0%D0%BC%D0%B1%D0%B8%D1%8F.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Варшава",
+                "correct": false
+            },
+            {
+                "answer": "Берн",
+                "correct": false
+            },
+            {
+                "answer": "Белиз",
+                "correct": false
+            },
+            {
+                "answer": "Банжул",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Сент-Кристофер жана Невис борбору",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%81%D0%B5%D0%BD%D1%82%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%9D%D0%B5%D0%B2%D0%B8%D1%81.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Белград",
+                "correct": false
+            },
+            {
+                "answer": "Бастер",
+                "correct": true
+            },
+            {
+                "answer": "Бельмопан",
+                "correct": false
+            },
+            {
+                "answer": "Богота",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Ливан борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%BB%D0%B8%D0%B2%D0%B0%D0%BD.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Гватемала",
+                "correct": false
+            },
+            {
+                "answer": "Берн",
+                "correct": false
+            },
+            {
+                "answer": "Бейрут",
+                "correct": true
+            },
+            {
+                "answer": "Веллингтон",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Сербия борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D1%81%D0%B5%D1%80%D0%B1%D0%B8%D1%8F.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Бужумбура",
+                "correct": false
+            },
+            {
+                "answer": "Белград",
+                "correct": true
+            },
+            {
+                "answer": "Загреб",
+                "correct": false
+            },
+            {
+                "answer": "Канберра",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "name": "География",
+        "title": "Дүйнө өлкөлөрүнүн борбор шаарлары",
+        "guestion": "Белиз борбор шаары",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/world_capitals/%D0%B1%D0%B5%D0%BB%D0%B8%D0%B7.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Сингапур",
+                "correct": false
+            },
+            {
+                "answer": "Тайпей",
+                "correct": false
+            },
+            {
+                "answer": "Бельмопан",
+                "correct": true
+            },
+            {
+                "answer": "София",
+                "correct": false
+            }
+        ]
+    }
+]
