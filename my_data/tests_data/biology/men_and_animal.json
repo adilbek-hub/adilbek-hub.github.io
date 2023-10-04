@@ -1,0 +1,202 @@
+[
+    {
+        "id": 125,
+        "name": "Биология",
+        "title": "Адам менен жаныбардын айырмасы",
+        "guestion": "Кишинин сүт эмүүчү жаныбардан айырмасы?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam1.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Өлчөмү: Адамдын көлөмү башка сүт эмүүчүлөрдөн өзгөчө айырмаланбайт.",
+                "correct": false
+            },
+            {
+                "answer": "Адамдын уникалдуу анатомиялык өзгөчөлүгү бар, тик туруу, чоң мээнин өнүгүшү",
+                "correct": true
+            },
+            {
+                "answer": "Чач: Чачтын болушу адамдарды башка сүт эмүүчүлөрдөн айырмалай албайт, анткени алардын көбүнүн чачы да бар.",
+                "correct": false
+            },
+            {
+                "answer": "Тери: жүнүнүн жетишсиздиги адамдардын өзгөчө бир өзгөчөлүгү эмес, анткени көпчүлүк сүт эмүүчүлөрдүн жүндөрү жок.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "name": "Биология",
+        "title": "Адам менен жаныбардын айырмасы",
+        "guestion": "Кишинин сүт эмүүчү жаныбардан айырмасы?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam1.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Өлчөмү: Адамдын көлөмү башка сүт эмүүчүлөрдөн өзгөчө айырмаланбайт.",
+                "correct": false
+            },
+            {
+                "answer": "Адамдын уникалдуу анатомиялык өзгөчөлүгү бар, тик туруу, чоң мээнин өнүгүшү",
+                "correct": true
+            },
+            {
+                "answer": "Чач: Чачтын болушу адамдарды башка сүт эмүүчүлөрдөн айырмалай албайт, анткени алардын көбүнүн чачы да бар.",
+                "correct": false
+            },
+            {
+                "answer": "Тери: жүнүнүн жетишсиздиги адамдардын өзгөчө бир өзгөчөлүгү эмес, анткени көпчүлүк сүт эмүүчүлөрдүн жүндөрү жок.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "name": "Биология",
+        "title": "Адам менен жаныбардын айырмасы",
+        "guestion": "Сүт эмүүчүлөрдүн денеси кандай системалардан турат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam2.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Нерв, кан айлануу, дем алуу жана тамак сиңирүү",
+                "correct": true
+            },
+            {
+                "answer": "Булчуң, сөөк, эндокриндик жана репродуктивдүү",
+                "correct": false
+            },
+            {
+                "answer": "Бөлүп чыгаруучу, иммундук, дем алуу жана кан айлануу",
+                "correct": false
+            },
+            {
+                "answer": "Тери, лимфа, эндокриндик жана тамак сиңирүү",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "name": "Биология",
+        "title": "Адам менен жаныбардын айырмасы",
+        "guestion": "Адамдардын кайсы анатомиялык өзгөчөлүгү уникалдуу?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam3.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Большой мозг",
+                "correct": false
+            },
+            {
+                "answer": "бипедализм",
+                "correct": false
+            },
+            {
+                "answer": "Куралдарды колдонуу",
+                "correct": false
+            },
+            {
+                "answer": "Жогоруда айтылгандардын баары",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "name": "Биология",
+        "title": "Адам менен жаныбардын айырмасы",
+        "guestion": "Адамдын эмчек сүтү башка сүт эмүүчүлөрдөн эмнеси менен айырмаланат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam4.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Балдарды багуу үчүн адам сүт чыгарбайт",
+                "correct": false
+            },
+            {
+                "answer": "Адамдын эмчек эмизүүсү социалдык жана маданий жактан көбүрөөк уюштурулган",
+                "correct": true
+            },
+            {
+                "answer": "Эркек балдарын сүт менен бакпайт",
+                "correct": false
+            },
+            {
+                "answer": "Адамдардын сүт менен тамактануусу башка сүт эмүүчүлөрдөн эч айырмаланбайт.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "name": "Биология",
+        "title": "Адам менен жаныбардын айырмасы",
+        "guestion": "Сүт эмүүчүлөр менен адамдарда курчап турган дүйнөнү үйрөнүү, жаттоо жана кабылдоо жөндөмүн эмне камсыз кылат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam5.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Өнүккөн нерв системасы",
+                "correct": true
+            },
+            {
+                "answer": "Диетадагы атаандаштыктын жоктугу",
+                "correct": false
+            },
+            {
+                "answer": "Физикалык активдүүлүктүн жогорку деңгээли",
+                "correct": false
+            },
+            {
+                "answer": "Узак уйку",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "name": "Биология",
+        "title": "Адам менен жаныбардын айырмасы",
+        "guestion": "Адамдардын акылынын жана жүрүм-турумунун өзгөчөлүгү эмнеде?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam5.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Татаал социалдык өз ара аракеттенүүнү өнүктүрүү",
+                "correct": false
+            },
+            {
+                "answer": "Тил жана маданият",
+                "correct": false
+            },
+            {
+                "answer": "Абстрактуу ой жүгүртүү жана чыгармачылык",
+                "correct": false
+            },
+            {
+                "answer": "Жогоруда айтылгандардын баары",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "name": "Биология",
+        "title": "Адам менен жаныбардын айырмасы",
+        "guestion": "Сүт эмүүчүлөрдүн жана адамдардын ар кандай чөйрөгө жана шарттарга ыңгайлашуусуна мүмкүндүк берген кандай жөндөмдөр бар?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/adamJanybar/adam6.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Экологиялык пластикалык",
+                "correct": true
+            },
+            {
+                "answer": "Өнүккөн физикалык өзгөчөлүктөрү",
+                "correct": false
+            },
+            {
+                "answer": "Теринин түсүн өзгөртүү мүмкүнчүлүгү",
+                "correct": false
+            },
+            {
+                "answer": "Канаттардын болушу",
+                "correct": false
+            }
+        ]
+    }
+]
