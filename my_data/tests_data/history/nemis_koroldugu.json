@@ -1,0 +1,227 @@
+[
+    {
+        "id": 15,
+        "name": "Тарых",
+        "title": "Немис королдугу",
+        "guestion": "V-X кылымдарда Германиянын падышалыгы кандай шарттарда болгон?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B31.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Германиянын падышалыгы бытыранды болгон жана ар кандай уруулардын жана варвар элдеринин болушу менен мүнөздөлгөн.",
+                "correct": true
+            },
+            {
+                "answer": "Германия падышалыгы бирдиктүү жана борборлоштурулган эл болгон",
+                "correct": false
+            },
+            {
+                "answer": "Бул мезгилде Германия толугу менен Рим империясынын таасиринде болгон.",
+                "correct": false
+            },
+            {
+                "answer": "Бул мезгилде Германдар жок эл болчу",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Тарых",
+        "title": "Немис королдугу",
+        "guestion": "V-X-кылымдарда бөлүнгөн Германияда башкаруунун кандай формалары болгон?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B32.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Ханзаадалар",
+                "correct": false
+            },
+            {
+                "answer": "Герцогдор",
+                "correct": true
+            },
+            {
+                "answer": "Вицеройлор",
+                "correct": false
+            },
+            {
+                "answer": "Падышалар",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Тарых",
+        "title": "Немис королдугу",
+        "guestion": "V-кылымда Ыйык Рим императорунун таажысын кийген саксондор династиясынын эң белгилүү падышаларынын бири ким болгон?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B33.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Фридрих I Барбаросса",
+                "correct": false
+            },
+            {
+                "answer": "Оттон I",
+                "correct": true
+            },
+            {
+                "answer": "Улуу Карл",
+                "correct": false
+            },
+            {
+                "answer": "Генрих IV",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Тарых",
+        "title": "Немис королдугу",
+        "guestion": "Майнцтагы кайсы монастырь жазуу жана маданият жаралган жана тараган маанилүү борборго айланган?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B34.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Монастырь Сан-Лоренцо",
+                "correct": true
+            },
+            {
+                "answer": "Монастырь Святого Мартиниана",
+                "correct": false
+            },
+            {
+                "answer": "Монастырь Сан-Мигель",
+                "correct": false
+            },
+            {
+                "answer": "Монастырь Санта-Мария",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Тарых",
+        "title": "Немис королдугу",
+        "guestion": "Кайсы доордо герман королдугу бытыранды жана түрдүү, анын ичинде ар кандай герман уруулары жана варвар уруулары болгон?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B35.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Кайра жаралуу доорунда",
+                "correct": false
+            },
+            {
+                "answer": "19-кылымда",
+                "correct": false
+            },
+            {
+                "answer": "Азыркы доордо",
+                "correct": false
+            },
+            {
+                "answer": "Алгачкы орто кылымдарда",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Тарых",
+        "title": "Немис королдугу",
+        "guestion": "Германия королдугунун бытырандылык мезгилиндеги герман урууларынын жана варвар урууларынын маданиятына кандай өзгөчөлүктөр мүнөздүү болгон?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B36.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Күчтүү борборлоштурулган мамлекет жана империя",
+                "correct": false
+            },
+            {
+                "answer": "Философиянын жана илимдин өнүгүшү",
+                "correct": false
+            },
+            {
+                "answer": "Бай адабий салт жана сүрөт искусствосу",
+                "correct": false
+            },
+            {
+                "answer": "Согуш өнөрүнө жана малчылыкка негизделген алгачкы маданият",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Тарых",
+        "title": "Немис королдугу",
+        "guestion": "Миссионерлердин, анын ичинде Сент-Бонифастын аркасында Германия падышачылыгында кандай диний таасир жайылган?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B37.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Христиандык",
+                "correct": true
+            },
+            {
+                "answer": "Ислам",
+                "correct": false
+            },
+            {
+                "answer": "Иудаизм",
+                "correct": false
+            },
+            {
+                "answer": "Паганизм",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Тарых",
+        "title": "Немис королдугу",
+        "guestion": "Биринчи Ыйык Рим императору жана 10-кылымда герман падышалыктарынын биригишине алып келген ким?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B38.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Улуу Карл",
+                "correct": false
+            },
+            {
+                "answer": "Оттон I",
+                "correct": true
+            },
+            {
+                "answer": "Фридрих I Барбаросса",
+                "correct": false
+            },
+            {
+                "answer": "Луис Бавария",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Тарых",
+        "title": "Немис королдугу",
+        "guestion": "Немис королдугунун тарыхында улуу герман падышалары жана императорлору кандай из калтырышкан?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/nemis_koroldugu/%D0%B39.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Жаңы аймактарды ачуу жана басып алуу",
+                "correct": false
+            },
+            {
+                "answer": "Германиянын маданиятына жана тарыхына олуттуу таасир тийгизген",
+                "correct": true
+            },
+            {
+                "answer": "Маданият менен искусствонун гүлдөп турган учуру",
+                "correct": false
+            },
+            {
+                "answer": "Саясий биримдик жана стабилдүүлүк",
+                "correct": false
+            }
+        ]
+    }
+]
