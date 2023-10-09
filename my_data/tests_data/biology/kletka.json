@@ -1,0 +1,377 @@
+[
+    {
+        "id": 133,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Клетканы курчап турган жана аны тышкы чөйрөдөн эмне бөлүп турат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka1.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Ядро",
+                "correct": false
+            },
+            {
+                "answer": "Митохондрия",
+                "correct": false
+            },
+            {
+                "answer": "Цитоплазма",
+                "correct": false
+            },
+            {
+                "answer": "Мембрана",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Клетканы курчап турган жана аны тышкы чөйрөдөн эмне бөлүп турат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka1.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Ядро",
+                "correct": false
+            },
+            {
+                "answer": "Митохондрия",
+                "correct": false
+            },
+            {
+                "answer": "Цитоплазма",
+                "correct": false
+            },
+            {
+                "answer": "Мембрана",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Ядро менен клетка кабыкчасынын ортосундагы мейкиндикти кайсы зат толтурат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka2.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Цитоплазма",
+                "correct": true
+            },
+            {
+                "answer": "Генетикалык маалымат",
+                "correct": false
+            },
+            {
+                "answer": "Эндоплазматикалык сеть",
+                "correct": false
+            },
+            {
+                "answer": "Гольджи",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Клеткадагы энергияны өндүрүүдө кайсы органоид иштейт?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka3.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Митохондрия",
+                "correct": true
+            },
+            {
+                "answer": "Гольджи",
+                "correct": false
+            },
+            {
+                "answer": "Лизосома",
+                "correct": false
+            },
+            {
+                "answer": "Ядро",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Белок синтезин кайсы органелл аткарат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka4.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Митохондрия",
+                "correct": false
+            },
+            {
+                "answer": "Гольджи",
+                "correct": true
+            },
+            {
+                "answer": "Цитоплазма",
+                "correct": false
+            },
+            {
+                "answer": "Ядро",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Клетканын бөлүнүү процесси эмне деп аталат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka5.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Митоз",
+                "correct": true
+            },
+            {
+                "answer": "Метаболизм",
+                "correct": false
+            },
+            {
+                "answer": "Митохондрия",
+                "correct": false
+            },
+            {
+                "answer": "Мембрана",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Клеткалар айлана-чөйрө менен эмне кылат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka6.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Белокторду синтездейт",
+                "correct": false
+            },
+            {
+                "answer": "Тукум",
+                "correct": false
+            },
+            {
+                "answer": "Азык заттарды сиңирип, калдыктарды сыртка чыгарат",
+                "correct": true
+            },
+            {
+                "answer": "Энергия өндүрүү",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Клетка ядросундагы генетикалык маалымат кайсы молекулада бар?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka7.jpg?raw=true",
+        "options": [
+            {
+                "answer": "РНК (рибонуклеин кислотасы)",
+                "correct": false
+            },
+            {
+                "answer": "Глюкоза",
+                "correct": false
+            },
+            {
+                "answer": "ДНК (дезоксирибонуклеин кислотасы)",
+                "correct": true
+            },
+            {
+                "answer": "Липиддер",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Клеткадагы генетикалык маалыматты эмне аныктайт?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka8.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Көздүн түсү",
+                "correct": false
+            },
+            {
+                "answer": "Органдын функциялары",
+                "correct": true
+            },
+            {
+                "answer": "Клетка өлчөмү",
+                "correct": false
+            },
+            {
+                "answer": "Дене жашы",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "ДНК молекуласында нуклеотиддердин ырааттуулугу катары эмне сакталат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka9.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Белоктор",
+                "correct": false
+            },
+            {
+                "answer": "Суу",
+                "correct": true
+            },
+            {
+                "answer": "Глюкоза",
+                "correct": false
+            },
+            {
+                "answer": "Генетикалык маалымат",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Генетикалык маалыматтын бир муундан экинчи муунга өтүшү эмне деп аталат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka10.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Метаболизм",
+                "correct": false
+            },
+            {
+                "answer": "Репродукция",
+                "correct": false
+            },
+            {
+                "answer": "Фотосинтез",
+                "correct": false
+            },
+            {
+                "answer": "Генетикалык берүү",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Организмдердин өсүп-өнүгүшүнүн негизи эмнеде?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka11.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Фотосинтез",
+                "correct": false
+            },
+            {
+                "answer": "Зат алмашуу",
+                "correct": false
+            },
+            {
+                "answer": "Митоз",
+                "correct": true
+            },
+            {
+                "answer": "Метаболизм",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Кайсы органоид молекулаларды иштетүү жана таңгактоо үчүн жооптуу?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka12.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Митохондрия",
+                "correct": false
+            },
+            {
+                "answer": "Гольджтар",
+                "correct": true
+            },
+            {
+                "answer": "Лизосома",
+                "correct": false
+            },
+            {
+                "answer": "Эндоплазмалык сеть",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Митохондрия клеткада эмнени жаратат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka13.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Энергияны",
+                "correct": true
+            },
+            {
+                "answer": "Белокторду",
+                "correct": false
+            },
+            {
+                "answer": "Сууну",
+                "correct": false
+            },
+            {
+                "answer": "Көмүр кычкыл газын",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "name": "Биология",
+        "title": "Клетка",
+        "guestion": "Клетка функцияларын кайсы органелл башкарат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/kletka/kletka14.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Митохондрия",
+                "correct": false
+            },
+            {
+                "answer": "Гольджтор",
+                "correct": false
+            },
+            {
+                "answer": "Ядро",
+                "correct": true
+            },
+            {
+                "answer": "Лизосома",
+                "correct": false
+            }
+        ]
+    }
+]
