@@ -1,0 +1,377 @@
+[
+    {
+        "id": 161,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Мээнин кайсы бөлүгү координация жана тең салмактуулук үчүн жооптуу?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee1.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Баш мээ",
+                "correct": false
+            },
+            {
+                "answer": "Мээче",
+                "correct": true
+            },
+            {
+                "answer": "Орто мээ",
+                "correct": false
+            },
+            {
+                "answer": "Арткы мээ",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Аң-сезимди жана ойгонууну жөнгө салууда мээнин кайсы бөлүгү роль ойнойт?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee2.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Баш мээ",
+                "correct": false
+            },
+            {
+                "answer": "Мээче",
+                "correct": false
+            },
+            {
+                "answer": "Орто мээ",
+                "correct": true
+            },
+            {
+                "answer": "Арткы мээ",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Мээнин кайсы бөлүгү ички органдарды жана эмоцияларды жөнгө салууга катышат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee3.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Баш мээ",
+                "correct": false
+            },
+            {
+                "answer": "Мээче",
+                "correct": false
+            },
+            {
+                "answer": "Диенцефалон",
+                "correct": true
+            },
+            {
+                "answer": "Арткы мээ",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Мээнин кайсы бөлүгү дем ​​алуу жана жүрөктүн согушу сыяктуу негизги маанилүү функцияларды башкарат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee4.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Баш мээ",
+                "correct": false
+            },
+            {
+                "answer": "Мээче",
+                "correct": false
+            },
+            {
+                "answer": "Диенцефалон",
+                "correct": false
+            },
+            {
+                "answer": "Арткы мээ",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Мээнин когнитивдик функциялары кандай функция менен байланыштуу?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee5.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Кыймылды координациялоо",
+                "correct": false
+            },
+            {
+                "answer": "Маалыматтарды иштетүү",
+                "correct": true
+            },
+            {
+                "answer": "Денени жөнгө салуу",
+                "correct": false
+            },
+            {
+                "answer": "Жүрүм-турумду башкаруу",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Кыймылды башкаруу функциясы кандай?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee6.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Кыймылды координациялоо",
+                "correct": true
+            },
+            {
+                "answer": "Маалыматтарды иштетүү",
+                "correct": false
+            },
+            {
+                "answer": "Органдарды жана системаларды жөнгө салуу",
+                "correct": false
+            },
+            {
+                "answer": "Жүрүм-турумду башкаруу",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Организмди жөнгө салуу кандай функция менен байланыштуу?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee7.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Кыймылды координациялоо",
+                "correct": false
+            },
+            {
+                "answer": "Маалыматтарды иштетүү",
+                "correct": false
+            },
+            {
+                "answer": "Органдарды жана системаларды жөнгө салуу",
+                "correct": true
+            },
+            {
+                "answer": "Жүрүм-турумду башкаруу",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Эмоциялардын кызматы кандай?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/nerv/nerv8.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Эмоциялар төмөнкү функцияларга кирбейт.",
+                "correct": true
+            },
+            {
+                "answer": "Кыймылды координациялоо",
+                "correct": false
+            },
+            {
+                "answer": "Органдарды жана системаларды жөнгө салуу",
+                "correct": false
+            },
+            {
+                "answer": "Жүрүм-турумду башкаруу",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Жүрүм-турум функциясы кандай?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee8.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Кыймылды координациялоо",
+                "correct": false
+            },
+            {
+                "answer": "Органдарды жана системаларды жөнгө салуу",
+                "correct": false
+            },
+            {
+                "answer": "Жүрүм-турумду башкаруу",
+                "correct": true
+            },
+            {
+                "answer": "Органдарды жана системаларды жөнгө салуу",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Кайсы функция мейкиндиктеги багытты билдирет?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee6.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Кыймылды координациялоо",
+                "correct": false
+            },
+            {
+                "answer": "Маалыматтарды иштетүү",
+                "correct": false
+            },
+            {
+                "answer": "Органдарды жана системаларды жөнгө салуу",
+                "correct": false
+            },
+            {
+                "answer": "Мейкиндиктеги ориентация",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Эмоциялардын калыптанышында, чагылдырылышында жана жөнгө салынышында мээнин кайсы бөлүгү маанилүү роль ойнойт?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee7.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Маңдай бөлүктөрү",
+                "correct": false
+            },
+            {
+                "answer": "Мээче",
+                "correct": false
+            },
+            {
+                "answer": "Лимбикалык система",
+                "correct": false
+            },
+            {
+                "answer": "Арткы мээ",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Көйгөйлөрдү чечүүгө жана чечим кабыл алууга мээнин кайсы бөлүгү катышат?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee11.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Маңдай бөлүктөрү",
+                "correct": true
+            },
+            {
+                "answer": "Мээче",
+                "correct": false
+            },
+            {
+                "answer": "Лимбикалык система",
+                "correct": false
+            },
+            {
+                "answer": "Арткы мээ",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Мээнин кайсы бөлүгү визуалдык маалыматты иштетүүгө жооп берет?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee12.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Убактылуу лобдор",
+                "correct": true
+            },
+            {
+                "answer": "Париеталдык лоб",
+                "correct": false
+            },
+            {
+                "answer": "Желке бөлүктөрү",
+                "correct": false
+            },
+            {
+                "answer": "Маңдай бөлүктөрү",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Угуу маалыматын иштетүү үчүн мээнин кайсы бөлүгү жооптуу?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee13.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Убактылуу лоб",
+                "correct": false
+            },
+            {
+                "answer": "Париеталдык лоб",
+                "correct": true
+            },
+            {
+                "answer": "Желке бөлүктөрү",
+                "correct": false
+            },
+            {
+                "answer": "Маңдай бөлүктөрү",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "name": "Биология",
+        "title": "Мээ",
+        "guestion": "Эстутумду калыптандырууда жана сактоодо мээнин кайсы бөлүгү маанилүү роль ойнойт?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology/mee/mee14.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Убактылуу лобдор",
+                "correct": false
+            },
+            {
+                "answer": "Борбордук жана перифериялык",
+                "correct": false
+            },
+            {
+                "answer": "Желке бөлүктөрү",
+                "correct": false
+            },
+            {
+                "answer": "Гиппокамп",
+                "correct": true
+            }
+        ]
+    }
+]
