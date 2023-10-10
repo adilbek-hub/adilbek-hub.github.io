@@ -1,0 +1,252 @@
+[
+    {
+        "id": 26,
+        "name": "Тарых",
+        "title": "Байыркы германдыктар",
+        "guestion": "Байыркы немистердин биздин заманга чейинки кайсы жылдардан бери келген?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/bayrky_germandyktar/%D0%B1%D0%B0%D0%B9%D1%8B%D1%80%D0%BA%D1%8B_%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA%D1%82%D0%B0%D1%80.jpg?raw=true",
+        "options": [
+            {
+                "answer": "2000 жылдыкта",
+                "correct": true
+            },
+            {
+                "answer": "4000 жылдыкта",
+                "correct": false
+            },
+            {
+                "answer": "3200 жылдыкта",
+                "correct": false
+            },
+            {
+                "answer": "1000 жылдыкта",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Тарых",
+        "title": "Байыркы германдыктар",
+        "guestion": "Байыркы немистер кайсыл чоң топко кирген?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/bayrky_germandyktar/%D1%8C%D0%B0%D0%B9%D1%8B%D1%80%D0%BA%D1%8B_%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA%D1%82%D0%B0%D1%80_%D0%BA%D0%B0%D0%B9%D1%81%D1%8B%D0%BB_%D1%82%D0%BE%D0%BF%D0%BA%D0%BE_%D0%BA%D0%B8%D1%80%D0%B3%D0%B5%D0%BD.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Байыркы Римден бөлүнүп чыккан эл болгон",
+                "correct": false
+            },
+            {
+                "answer": "Монголоид тегинен болушкан",
+                "correct": false
+            },
+            {
+                "answer": "Варварлар уруусунан болушкан",
+                "correct": false
+            },
+            {
+                "answer": "Индоевропа элинин чоң тобуна кирген",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Тарых",
+        "title": "Байыркы германдыктар",
+        "guestion": "Байыркы немистер байырлаган аймактар",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/bayrky_germandyktar/%D0%BD%D0%B5%D0%BC%D0%B8%D1%81%D1%82%D0%B5_%D0%B1%D0%B0%D0%B9%D1%8B%D1%80%D0%BB%D0%B0%D0%B3%D0%B0%D0%BD_%D0%B0%D0%B9%D0%BC%D0%B0%D0%BA%D1%82%D0%B0%D1%80.jpg?raw=true",
+        "options": [
+            {
+                "answer": "азыркы Канада, Иран, Ирак",
+                "correct": false
+            },
+            {
+                "answer": "Германия, Голландия, Дания, Швеция, Норвегия",
+                "correct": true
+            },
+            {
+                "answer": "Африка континенти",
+                "correct": false
+            },
+            {
+                "answer": "Испания,Португалия, Ливан, Италия",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Тарых",
+        "title": "Байыркы германдыктар",
+        "guestion": "Немистер Римдиктер менен Тевтобург токойундагы салгылашууда немистердин лидери ким болгон?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/bayrky_germandyktar/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_%D0%B4%D1%80_%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%86%D0%B5%D0%B2.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Арпия",
+                "correct": false
+            },
+            {
+                "answer": "Валам",
+                "correct": false
+            },
+            {
+                "answer": "Арминиус",
+                "correct": true
+            },
+            {
+                "answer": "Ариовист",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Тарых",
+        "title": "Байыркы германдыктар",
+        "guestion": "Немистер Римдиктер менен Тевтобург токойундагы салгылашууда немистердин лидери ким болгон?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/bayrky_germandyktar/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_%D0%B4%D1%80_%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%86%D0%B5%D0%B2.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Арпия",
+                "correct": false
+            },
+            {
+                "answer": "Валам",
+                "correct": false
+            },
+            {
+                "answer": "Арминиус",
+                "correct": true
+            },
+            {
+                "answer": "Ариовист",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Тарых",
+        "title": "Байыркы германдыктар",
+        "guestion": "Байыркы немистердин экономикасынын негизгисин эмнелер түзгөн?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/informatica/sistemalyk_programmalyk_kamsyzdoo/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D1%82%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7%D0%B4%D0%BE%D0%BE.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Алтын жана күмүш казуу",
+                "correct": false
+            },
+            {
+                "answer": "Римдиктерге куралдарды жасап берүү",
+                "correct": false
+            },
+            {
+                "answer": "Балык уулоо жолу гана",
+                "correct": false
+            },
+            {
+                "answer": "Дыйканчылык, малчылык, кол өнөрчүлүк",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Тарых",
+        "title": "Байыркы германдыктар",
+        "guestion": "Батыш Рим империясынын аймагына немис уруулары кайсыл кылымдарда кол сала баштаган?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/bayrky_germandyktar/%D1%82%D0%B5%D0%B2%D0%B4%D0%BE%D0%B2%D1%83%D1%80%D0%B3_%D1%82%D0%BE%D0%BA%D0%BE%D0%B9%D1%83.jpg?raw=true",
+        "options": [
+            {
+                "answer": "'Биздин замандын V кылымында",
+                "correct": true
+            },
+            {
+                "answer": "Биздин замандын 2 кылымында",
+                "correct": false
+            },
+            {
+                "answer": "Биздин заманга чейин 2000 жылдыкта",
+                "correct": false
+            },
+            {
+                "answer": "Биздин замандын 3 кылымында",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Тарых",
+        "title": "Байыркы германдыктар",
+        "guestion": "Биздин замандын 9-жылы Рим императору Августка кайсы герман лидери каршылык көрсөткөн?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/bayrky_germandyktar/%D0%BD%D0%B5%D0%BC%D0%B8%D1%81%D1%82%D0%B5_%D0%B1%D0%B0%D0%B9%D1%8B%D1%80%D0%BB%D0%B0%D0%B3%D0%B0%D0%BD_%D0%B0%D0%B9%D0%BC%D0%B0%D0%BA%D1%82%D0%B0%D1%80.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Германий",
+                "correct": false
+            },
+            {
+                "answer": "Тевтобург",
+                "correct": true
+            },
+            {
+                "answer": "Варус",
+                "correct": false
+            },
+            {
+                "answer": "Арминий",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Тарых",
+        "title": "Байыркы германдыктар",
+        "guestion": "Кайсы герман эли темир согуу жана соода өнөрү менен белгилүү болгон?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/bayrky_germandyktar/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD_%D0%B0%D0%B9%D1%8B%D0%BB%D1%8B.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Тевтондор",
+                "correct": true
+            },
+            {
+                "answer": "Свевдер",
+                "correct": false
+            },
+            {
+                "answer": "Лангобардтар",
+                "correct": false
+            },
+            {
+                "answer": "Херусктар",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Тарых",
+        "title": "Байыркы германдыктар",
+        "guestion": "Кайсы герман тайпасы өзүнүн деңиздеги чеберчилиги жана дирижабльдары менен белгилүү болгон?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/bayrky_germandyktar/%D0%B1%D0%B0%D0%B9%D1%8B%D1%80%D0%BA%D1%8B_%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA%D1%82%D0%B0%D1%80.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Аламандар",
+                "correct": false
+            },
+            {
+                "answer": "Вестготтор",
+                "correct": true
+            },
+            {
+                "answer": "Ютландтар",
+                "correct": false
+            },
+            {
+                "answer": "Саксондор",
+                "correct": false
+            }
+        ]
+    }
+]
