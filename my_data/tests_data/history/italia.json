@@ -1,0 +1,277 @@
+[
+    {
+        "id": 36,
+        "name": "Тарых",
+        "title": "Италия 5 10 кылым",
+        "guestion": "Кайра жаралуу доорунда Италиянын кайсы шаар-мамлекети белгилүү соода жана маданият борборуна айланган?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B81.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Милан",
+                "correct": false
+            },
+            {
+                "answer": "Венеция",
+                "correct": false
+            },
+            {
+                "answer": "Рим",
+                "correct": false
+            },
+            {
+                "answer": "Флоренция",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Тарых",
+        "title": "Италия 5 10 кылым",
+        "guestion": "5-10 кылымдын башында Италияда кандай саясий өзгөрүүлөр болуп, көптөгөн майда мамлекеттерге, территорияларга бөлүнүүгө алып келди?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B82.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Италияда христиан динин кабыл алуу",
+                "correct": false
+            },
+            {
+                "answer": "Италиянын крест жортуулдарына катышуусу",
+                "correct": false
+            },
+            {
+                "answer": "Рим империясынын Италияны басып алуусу",
+                "correct": false
+            },
+            {
+                "answer": "Острогот жана Византия падышалыктарынын, ошондой эле Ломбард падышалыгынын пайда болушу",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Тарых",
+        "title": "Италия 5 10 кылым",
+        "guestion": "Кайсы кылымда Франк королу Карл Италиянын бөлүгүн басып алып Каролинг империясын курду?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B83.jpg?raw=true",
+        "options": [
+            {
+                "answer": "XII-кылымда",
+                "correct": false
+            },
+            {
+                "answer": "VIII-кылымда",
+                "correct": true
+            },
+            {
+                "answer": "V-кылымда",
+                "correct": false
+            },
+            {
+                "answer": "VII-кылымда",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Тарых",
+        "title": "Италия 5 10 кылым",
+        "guestion": "Карл Италияда анын тушунда кандай реформаларды жүргүзгөн?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B84.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Билим берүү, сот жана чиркөө уюмдарында реформалар",
+                "correct": true
+            },
+            {
+                "answer": "Экономика, аскердик система жана соода тармагындагы реформалар",
+                "correct": false
+            },
+            {
+                "answer": "Айыл чарбасында жана инфраструктурада реформалар",
+                "correct": false
+            },
+            {
+                "answer": "Салык жана соода реформалары",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Тарых",
+        "title": "Италия 5 10 кылым",
+        "guestion": "Кайсы кылымда Италия Тоскан Маркграфтары жана Сполето графтары сыяктуу ар кандай феодалдык башкаруучулар менен күчтүү үй-бүлөлөрдүн ортосунда күрөш болгон?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B85.jpg?raw=true",
+        "options": [
+            {
+                "answer": "6 - кылымда",
+                "correct": false
+            },
+            {
+                "answer": "12 - кылымда",
+                "correct": false
+            },
+            {
+                "answer": "16 - кылымда",
+                "correct": false
+            },
+            {
+                "answer": "9 - кылымда",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Тарых",
+        "title": "Италия 5 10 кылым",
+        "guestion": "10-кылымда Италиянын саясий жана экономикалык турмушунда кайсы шаар-мамлекеттер маанилүү роль ойной баштаган?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B86.jpg?raw=true",
+        "options": [
+            {
+                "answer": "'Пиза, Турин и Болонья",
+                "correct": false
+            },
+            {
+                "answer": "Рим, Милан жана Неаполь",
+                "correct": false
+            },
+            {
+                "answer": "Флоренция, Венеция жана Генуя",
+                "correct": true
+            },
+            {
+                "answer": "Мадрид, Париж и Лондон",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Тарых",
+        "title": "Италия 5 10 кылым",
+        "guestion": "10-кылымда Италиянын саясий жана экономикалык турмушунда кайсы шаар-мамлекеттер маанилүү роль ойной баштаган?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B86.jpg?raw=true",
+        "options": [
+            {
+                "answer": "'Пиза, Турин и Болонья",
+                "correct": false
+            },
+            {
+                "answer": "Рим, Милан жана Неаполь",
+                "correct": false
+            },
+            {
+                "answer": "Флоренция, Венеция жана Генуя",
+                "correct": true
+            },
+            {
+                "answer": "Мадрид, Париж и Лондон",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Тарых",
+        "title": "Италия 5 10 кылым",
+        "guestion": "Кайсы шаар-мамлекеттер Италияда искусствонун, архитектуранын жана Ренессанс искусствосунун борборлору болуп калды?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B87.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Париж, Лондон жана Мадрид",
+                "correct": false
+            },
+            {
+                "answer": "Венеция, Генуя жана Турин",
+                "correct": false
+            },
+            {
+                "answer": "Рим, Милан жана Неаполь",
+                "correct": false
+            },
+            {
+                "answer": "Флоренция, Пиза жана Сиена",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Тарых",
+        "title": "Италия 5 10 кылым",
+        "guestion": "Чыгыш менен Батышты байланыштырган соода?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B88.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Неаполь жана Турин",
+                "correct": false
+            },
+            {
+                "answer": "Венеция жана Генуя",
+                "correct": true
+            },
+            {
+                "answer": "Рим жана Милан",
+                "correct": false
+            },
+            {
+                "answer": "Флоренция жана Пиза",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Тарых",
+        "title": "Италия 5 10 кылым",
+        "guestion": "Бул мезгилде Италиянын биримдигин жана стабилдүүлүгүн кандай факторлор начарлатты?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B89.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Табигый кырсыктар",
+                "correct": false
+            },
+            {
+                "answer": "Экономикалык мүчүлүштүктөр",
+                "correct": false
+            },
+            {
+                "answer": "Шаарлар менен мамлекеттер ортосундагы ички чыр-чатактарбчет элдик аскерлердин жана баскынчылардын таасири",
+                "correct": true
+            },
+            {
+                "answer": "маданий айырмачылыктар, диний талаш-тартыштар",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Тарых",
+        "title": "Италия 5 10 кылым",
+        "guestion": "X-кылымдын аягында Италиядагы бийлик үчүн күрөшкө кайсы мамлекеттер жана башкаруучулар катышкан?",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/history/italia/%D0%B810.jpg?raw=true",
+        "options": [
+            {
+                "answer": "Норман Королдугу Түштүк Италия жана Сицилия, Папа мамлекеттери жана Германия императорлору",
+                "correct": true
+            },
+            {
+                "answer": "Француз королдору жана англис ханышалары",
+                "correct": false
+            },
+            {
+                "answer": "Монгол империясы жана Осмон султандары",
+                "correct": false
+            },
+            {
+                "answer": "Испан конкистадорлору жана инка императорлору",
+                "correct": false
+            }
+        ]
+    }
+]
