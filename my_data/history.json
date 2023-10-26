@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png?raw=true",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/icons8-history.gif?raw=true",
         "title": "Немис королдугунун жаралышы",
         "description": "Немис королдугунун жаралышы тууралуу билип алыңыз.",
         "aboutGermans": [
@@ -13,7 +13,7 @@
     },
     {
         "id": 2,
-        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png?raw=true",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/icons8-history.gif?raw=true",
         "title": "Рим Империясы",
         "description": "Тарыхта Рим Империясы жөнүндө таанышыңыз.",
         "aboutRoma": [
@@ -25,7 +25,7 @@
     },
     {
         "id": 3,
-        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png?raw=true",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/icons8-history.gif?raw=true",
         "title": "Байыркы германдыктар",
         "description": "Кымбаттуу окуучу, байыркы германдыктар тууралуу окуп билиңиз.",
         "aboutOldGermans": [
@@ -37,7 +37,7 @@
     },
     {
         "id": 4,
-        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png?raw=true",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/icons8-history.gif?raw=true",
         "title": "Италия V-X кылымдарда",
         "description": "Кымбаттуу окуучу, байыркы Италиянын өзгөчөлүктөрү тууралуу сизге тааныштырабыз.",
         "aboutOldItalia": [
