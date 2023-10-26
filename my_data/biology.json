@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Кишинин сүт эмүүчү жаныбарлар менен окшоштугу жана айырмачылыгы",
         "description": "Биологияда адам менен жарыбардын окшоштуктары жана айырмачылыктары тууралуу кыскача билип алыңыз",
-        "image": "assets/images/capitals/globe.png",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology.png?raw=true",
         "aboutManAndAnimal": [
             {
                 "title": "Кишинин сүт эмүүчү жаныбарлар менен окшоштугу жана айырмачылыгы",
@@ -36,7 +36,7 @@
         "id": 2,
         "title": "Клетка жөнүндө түшүнүк",
         "description": "Кымбаттуу окуучу, клетка деген эмне? ушул тууралуу маалымат алыңыз.",
-        "image": "assets/images/capitals/globe.png",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology.png?raw=true",
         "aboutKletka": [
             {
                 "title": "Клетка",
@@ -58,7 +58,7 @@
         "id": 3,
         "title": "Нерв системасынын түзүлүшү жана анын кызматы",
         "description": "Кымбаттуу окуучу, нерв системалары жөнүндө окуп билип алыңыз.",
-        "image": "assets/images/capitals/globe.png",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology.png?raw=true",
         "aboutNervous": [
             {
                 "title": "Нерв системасы",
@@ -76,7 +76,7 @@
         "id": 4,
         "title": "Мээ",
         "description": "Кымбаттуу окуучу, мээ тууралуу маалымат алыңыз.",
-        "image": "assets/images/capitals/globe.png",
+        "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/biology.png?raw=true",
         "aboutBrain": [
             {
                 "title": "Мээ",
