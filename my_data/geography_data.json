@@ -80,7 +80,7 @@
         {
             "title": "Америка Кошмо Штаттары",
             "description": "Кымбаттуу окуучу! Биз жашап жаткан жер планетабыздагы Америка  өлкөсү менен тааныштырабыз.",
-            "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png",
+            "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png?raw=true",
             "usa": [
                 {
                     "title": "Америка Кошмо Штаттары",
@@ -374,7 +374,7 @@
         {
             "title": "Азия континенти",
             "description": "Кымбаттуу окуучу! Биз жашап жаткан жер планетабыздагы Азия континентин тааныштырабыз.",
-            "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png",
+            "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png?raw=true",
             "asia": [
                 {
                     "title": "Азиянын географиясы",
@@ -404,7 +404,7 @@
         {
             "title": "Бүйнө өлкөлөрү жана алардын борбор шаарлары",
             "description": "Кымбаттуу окуучу! Биз жашап жаткан жер планетабыздагы өлкөлөрдүн борбор шаарларын сизге тааныштырабыз.",
-            "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png",
+            "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/globe.png?raw=true",
             "usa": [
                 {
                     "title": "Америка Кошмо Штаттары",
