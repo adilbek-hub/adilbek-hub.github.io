@@ -3,23 +3,23 @@
     "id": 1,
     "name": "География",
     "title": "Европа өлкөлөрүнүн борбор шаарлары",
-    "guestion": "Parice",
+    "guestion": "Париж",
     "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/Parice.jpeg?raw=true",
     "options": [
       {
-        "answer": "Germany",
+        "answer": "Германия",
         "correct": false
       },
       {
-        "answer": "France",
+        "answer": "Франция",
         "correct": true
       },
       {
-        "answer": "Italy",
+        "answer": "Италия",
         "correct": false
       },
       {
-        "answer": "Austria",
+        "answer": "Австрия",
         "correct": false
       }
     ]
@@ -28,23 +28,23 @@
     "id": 2,
     "name": "География",
     "title": "Европа өлкөлөрүнүн борбор шаарлары",
-    "guestion": "Berlin",
+    "guestion": "Берлин",
     "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/Berlin.jpeg?raw=true",
     "options": [
       {
-        "answer": "Germany",
+        "answer": "Германия",
         "correct": true
       },
       {
-        "answer": "France",
+        "answer": "Франция",
         "correct": false
       },
       {
-        "answer": "Italy",
+        "answer": "Италия",
         "correct": false
       },
       {
-        "answer": "Austria",
+        "answer": "Австрия",
         "correct": false
       }
     ]
@@ -53,23 +53,23 @@
     "id": 3,
     "name": "География",
     "title": "Европа өлкөлөрүнүн борбор шаарлары",
-    "guestion": "Bern",
+    "guestion": "Берн",
     "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/BernSwitzerland.jpeg?raw=true",
     "options": [
       {
-        "answer": "Germany",
+        "answer": "Греция",
         "correct": false
       },
       {
-        "answer": "France",
+        "answer": "Франция",
         "correct": false
       },
       {
-        "answer": "Switzerland",
+        "answer": "Швейцария",
         "correct": true
       },
       {
-        "answer": "Austria",
+        "answer": "Болгария",
         "correct": false
       }
     ]
@@ -78,23 +78,23 @@
     "id": 4,
     "name": "География",
     "title": "Европа өлкөлөрүнүн борбор шаарлары",
-    "guestion": "Brusel",
+    "guestion": "Брюсель",
     "image": "https://github.com/adilbek-hub/FLUTTER2023/blob/main/education/images/capitals/BruselBelgium.jpeg?raw=true",
     "options": [
       {
-        "answer": "Germany",
+        "answer": "Нидерландтар",
         "correct": false
       },
       {
-        "answer": "France",
+        "answer": "Испания",
         "correct": false
       },
       {
-        "answer": "Italy",
+        "answer": "Италия",
         "correct": false
       },
       {
-        "answer": "Belgium",
+        "answer": "Бельгия",
         "correct": true
       }
     ]
